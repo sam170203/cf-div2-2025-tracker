@@ -1,0 +1,2694 @@
+{
+  "year": 2025,
+  "lastUpdated": "2025-12-16",
+  "problems": [
+    {
+      "id": "2055A",
+      "contestId": 2055,
+      "contestName": "Codeforces Round 996 (Div. 2)",
+      "index": "A",
+      "name": "Two Frogs",
+      "rating": 800,
+      "tags": [
+        "constructive algorithms",
+        "games",
+        "greedy",
+        "math"
+      ],
+      "url": "https://codeforces.com/contest/2055/problem/A"
+    },
+    {
+      "id": "2056A",
+      "contestId": 2056,
+      "contestName": "Codeforces Round 997 (Div. 2)",
+      "index": "A",
+      "name": "Shape Perimeter",
+      "rating": 800,
+      "tags": [
+        "constructive algorithms",
+        "math"
+      ],
+      "url": "https://codeforces.com/contest/2056/problem/A"
+    },
+    {
+      "id": "2059A",
+      "contestId": 2059,
+      "contestName": "Codeforces Round 1002 (Div. 2)",
+      "index": "A",
+      "name": "Milya and Two Arrays",
+      "rating": 800,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "sortings"
+      ],
+      "url": "https://codeforces.com/contest/2059/problem/A"
+    },
+    {
+      "id": "2061A",
+      "contestId": 2061,
+      "contestName": "IAEPC Preliminary Contest (Codeforces Round 999, Div. 1 + Div. 2)",
+      "index": "A",
+      "name": "Kevin and Arithmetic",
+      "rating": 800,
+      "tags": [
+        "math"
+      ],
+      "url": "https://codeforces.com/contest/2061/problem/A"
+    },
+    {
+      "id": "2062A",
+      "contestId": 2062,
+      "contestName": "Ethflow Round 1 (Codeforces Round 1001, Div. 1 + Div. 2)",
+      "index": "A",
+      "name": "String",
+      "rating": 800,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "math",
+        "strings"
+      ],
+      "url": "https://codeforces.com/contest/2062/problem/A"
+    },
+    {
+      "id": "2063A",
+      "contestId": 2063,
+      "contestName": "Codeforces Round 1000 (Div. 2)",
+      "index": "A",
+      "name": "Minimal Coprime",
+      "rating": 800,
+      "tags": [
+        "math",
+        "number theory"
+      ],
+      "url": "https://codeforces.com/contest/2063/problem/A"
+    },
+    {
+      "id": "2064A",
+      "contestId": 2064,
+      "contestName": "Codeforces Round 1005 (Div. 2)",
+      "index": "A",
+      "name": "Brogramming Contest",
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "strings"
+      ],
+      "url": "https://codeforces.com/contest/2064/problem/A"
+    },
+    {
+      "id": "2067A",
+      "contestId": 2067,
+      "contestName": "Codeforces Round 1004 (Div. 2)",
+      "index": "A",
+      "name": "Adjacent Digit Sums",
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "math"
+      ],
+      "url": "https://codeforces.com/contest/2067/problem/A"
+    },
+    {
+      "id": "2069A",
+      "contestId": 2069,
+      "contestName": "Educational Codeforces Round 174 (Rated for Div. 2)",
+      "index": "A",
+      "name": "Was there an Array?",
+      "rating": 800,
+      "tags": [
+        "graph matchings",
+        "greedy"
+      ],
+      "url": "https://codeforces.com/contest/2069/problem/A"
+    },
+    {
+      "id": "2070A",
+      "contestId": 2070,
+      "contestName": "Educational Codeforces Round 175 (Rated for Div. 2)",
+      "index": "A",
+      "name": "FizzBuzz Remixed",
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "math"
+      ],
+      "url": "https://codeforces.com/contest/2070/problem/A"
+    },
+    {
+      "id": "2071A",
+      "contestId": 2071,
+      "contestName": "Codeforces Round 1007 (Div. 2)",
+      "index": "A",
+      "name": "The Play Never Ends",
+      "rating": 800,
+      "tags": [
+        "math",
+        "number theory"
+      ],
+      "url": "https://codeforces.com/contest/2071/problem/A"
+    },
+    {
+      "id": "2075A",
+      "contestId": 2075,
+      "contestName": "Educational Codeforces Round 176 (Rated for Div. 2)",
+      "index": "A",
+      "name": "To Zero",
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "math"
+      ],
+      "url": "https://codeforces.com/contest/2075/problem/A"
+    },
+    {
+      "id": "2078A",
+      "contestId": 2078,
+      "contestName": "Codeforces Round 1008 (Div. 2)",
+      "index": "A",
+      "name": "Final Verdict",
+      "rating": 800,
+      "tags": [
+        "math"
+      ],
+      "url": "https://codeforces.com/contest/2078/problem/A"
+    },
+    {
+      "id": "2082A",
+      "contestId": 2082,
+      "contestName": "Codeforces Round 1010 (Div. 2, Unrated)",
+      "index": "A",
+      "name": "Binary Matrix",
+      "rating": 800,
+      "tags": [
+        "constructive algorithms",
+        "greedy"
+      ],
+      "url": "https://codeforces.com/contest/2082/problem/A"
+    },
+    {
+      "id": "2084A",
+      "contestId": 2084,
+      "contestName": "Teza Round 1 (Codeforces Round 1015, Div. 1 + Div. 2)",
+      "index": "A",
+      "name": "Max and Mod",
+      "rating": 800,
+      "tags": [
+        "constructive algorithms",
+        "math"
+      ],
+      "url": "https://codeforces.com/contest/2084/problem/A"
+    },
+    {
+      "id": "2086A",
+      "contestId": 2086,
+      "contestName": "Educational Codeforces Round 177 (Rated for Div. 2)",
+      "index": "A",
+      "name": "Cloudberry Jam",
+      "rating": 800,
+      "tags": [
+        "math"
+      ],
+      "url": "https://codeforces.com/contest/2086/problem/A"
+    },
+    {
+      "id": "2090A",
+      "contestId": 2090,
+      "contestName": "Codeforces Round 1012 (Div. 2)",
+      "index": "A",
+      "name": "Treasure Hunt",
+      "rating": 800,
+      "tags": [
+        "implementation",
+        "math"
+      ],
+      "url": "https://codeforces.com/contest/2090/problem/A"
+    },
+    {
+      "id": "2092A",
+      "contestId": 2092,
+      "contestName": "Codeforces Round 1014 (Div. 2)",
+      "index": "A",
+      "name": "Kamilka and the Sheep",
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "math",
+        "number theory",
+        "sortings"
+      ],
+      "url": "https://codeforces.com/contest/2092/problem/A"
+    },
+    {
+      "id": "2096A",
+      "contestId": 2096,
+      "contestName": "Neowise Labs Contest 1 (Codeforces Round 1018, Div. 1 + Div. 2)",
+      "index": "A",
+      "name": "Wonderful Sticks",
+      "rating": 800,
+      "tags": [
+        "constructive algorithms",
+        "greedy"
+      ],
+      "url": "https://codeforces.com/contest/2096/problem/A"
+    },
+    {
+      "id": "2098A",
+      "contestId": 2098,
+      "contestName": "Codeforces Round 1021 (Div. 2)",
+      "index": "A",
+      "name": "Vadim's Collection",
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "greedy"
+      ],
+      "url": "https://codeforces.com/contest/2098/problem/A"
+    },
+    {
+      "id": "2103A",
+      "contestId": 2103,
+      "contestName": "Codeforces Round 1019 (Div. 2)",
+      "index": "A",
+      "name": "Common Multiple",
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "greedy",
+        "implementation",
+        "math"
+      ],
+      "url": "https://codeforces.com/contest/2103/problem/A"
+    },
+    {
+      "id": "2104A",
+      "contestId": 2104,
+      "contestName": "Educational Codeforces Round 178 (Rated for Div. 2)",
+      "index": "A",
+      "name": "Three Decks",
+      "rating": 800,
+      "tags": [
+        "math"
+      ],
+      "url": "https://codeforces.com/contest/2104/problem/A"
+    },
+    {
+      "id": "2107A",
+      "contestId": 2107,
+      "contestName": "Codeforces Round 1023 (Div. 2)",
+      "index": "A",
+      "name": "LRC and VIP",
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "number theory"
+      ],
+      "url": "https://codeforces.com/contest/2107/problem/A"
+    },
+    {
+      "id": "2108A",
+      "contestId": 2108,
+      "contestName": "Codeforces Round 1022 (Div. 2)",
+      "index": "A",
+      "name": "Permutation Warm-Up",
+      "rating": 800,
+      "tags": [
+        "combinatorics",
+        "greedy",
+        "math"
+      ],
+      "url": "https://codeforces.com/contest/2108/problem/A"
+    },
+    {
+      "id": "2109A",
+      "contestId": 2109,
+      "contestName": "Codeforces Round 1025 (Div. 2)",
+      "index": "A",
+      "name": "It's Time To Duel",
+      "rating": 800,
+      "tags": [
+        "implementation"
+      ],
+      "url": "https://codeforces.com/contest/2109/problem/A"
+    },
+    {
+      "id": "2110A",
+      "contestId": 2110,
+      "contestName": "Codeforces Round 1026 (Div. 2)",
+      "index": "A",
+      "name": "Fashionable Array",
+      "rating": 800,
+      "tags": [
+        "implementation",
+        "sortings"
+      ],
+      "url": "https://codeforces.com/contest/2110/problem/A"
+    },
+    {
+      "id": "2111A",
+      "contestId": 2111,
+      "contestName": "Educational Codeforces Round 179 (Rated for Div. 2)",
+      "index": "A",
+      "name": "Energy Crystals",
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "implementation",
+        "math"
+      ],
+      "url": "https://codeforces.com/contest/2111/problem/A"
+    },
+    {
+      "id": "2112A",
+      "contestId": 2112,
+      "contestName": "Educational Codeforces Round 180 (Rated for Div. 2)",
+      "index": "A",
+      "name": "Race",
+      "rating": 800,
+      "tags": [
+        "implementation",
+        "math"
+      ],
+      "url": "https://codeforces.com/contest/2112/problem/A"
+    },
+    {
+      "id": "2113A",
+      "contestId": 2113,
+      "contestName": "Codeforces Round 1031 (Div. 2)",
+      "index": "A",
+      "name": "Shashliks",
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "math"
+      ],
+      "url": "https://codeforces.com/contest/2113/problem/A"
+    },
+    {
+      "id": "2116A",
+      "contestId": 2116,
+      "contestName": "Codeforces Round 1028 (Div. 2)",
+      "index": "A",
+      "name": "Gellyfish and Tricolor Pansy",
+      "rating": 800,
+      "tags": [
+        "games",
+        "greedy"
+      ],
+      "url": "https://codeforces.com/contest/2116/problem/A"
+    },
+    {
+      "id": "2118A",
+      "contestId": 2118,
+      "contestName": "Codeforces Round 1030 (Div. 2)",
+      "index": "A",
+      "name": "Equal Subsequences",
+      "rating": 800,
+      "tags": [
+        "constructive algorithms",
+        "greedy"
+      ],
+      "url": "https://codeforces.com/contest/2118/problem/A"
+    },
+    {
+      "id": "2119A",
+      "contestId": 2119,
+      "contestName": "Codeforces Round 1035 (Div. 2)",
+      "index": "A",
+      "name": "Add or XOR",
+      "rating": 800,
+      "tags": [
+        "bitmasks",
+        "greedy",
+        "math"
+      ],
+      "url": "https://codeforces.com/contest/2119/problem/A"
+    },
+    {
+      "id": "2120A",
+      "contestId": 2120,
+      "contestName": "Codeforces Round 1033 (Div. 2) and CodeNite 2025",
+      "index": "A",
+      "name": "Square of Rectangles",
+      "rating": 800,
+      "tags": [
+        "geometry",
+        "math"
+      ],
+      "url": "https://codeforces.com/contest/2120/problem/A"
+    },
+    {
+      "id": "2122A",
+      "contestId": 2122,
+      "contestName": "Order Capital Round 1 (Codeforces Round 1038, Div. 1 + Div. 2)",
+      "index": "A",
+      "name": "Greedy Grid",
+      "rating": 800,
+      "tags": [
+        "constructive algorithms",
+        "greedy"
+      ],
+      "url": "https://codeforces.com/contest/2122/problem/A"
+    },
+    {
+      "id": "2124A",
+      "contestId": 2124,
+      "contestName": "EPIC Institute of Technology Round Summer 2025 (Codeforces Round 1036, Div. 1 + Div. 2)",
+      "index": "A",
+      "name": "Deranged Deletions",
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "sortings"
+      ],
+      "url": "https://codeforces.com/contest/2124/problem/A"
+    },
+    {
+      "id": "2125A",
+      "contestId": 2125,
+      "contestName": "Educational Codeforces Round 181 (Rated for Div. 2)",
+      "index": "A",
+      "name": "Difficult Contest",
+      "rating": 800,
+      "tags": [
+        "constructive algorithms",
+        "implementation",
+        "sortings",
+        "strings"
+      ],
+      "url": "https://codeforces.com/contest/2125/problem/A"
+    },
+    {
+      "id": "2127A",
+      "contestId": 2127,
+      "contestName": "Atto Round 1 (Codeforces Round 1041, Div. 1 + Div. 2)",
+      "index": "A",
+      "name": "Mix Mex Max",
+      "rating": 800,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "math"
+      ],
+      "url": "https://codeforces.com/contest/2127/problem/A"
+    },
+    {
+      "id": "2128A",
+      "contestId": 2128,
+      "contestName": "Codeforces Round 1039 (Div. 2)",
+      "index": "A",
+      "name": "Recycling Center",
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "sortings"
+      ],
+      "url": "https://codeforces.com/contest/2128/problem/A"
+    },
+    {
+      "id": "2130A",
+      "contestId": 2130,
+      "contestName": "Codeforces Round 1040 (Div. 2)",
+      "index": "A",
+      "name": "Submission is All You Need",
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "math"
+      ],
+      "url": "https://codeforces.com/contest/2130/problem/A"
+    },
+    {
+      "id": "2133A",
+      "contestId": 2133,
+      "contestName": "Codeforces Round 1044 (Div. 2)",
+      "index": "A",
+      "name": "Redstone?",
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "data structures",
+        "implementation",
+        "math"
+      ],
+      "url": "https://codeforces.com/contest/2133/problem/A"
+    },
+    {
+      "id": "2133B",
+      "contestId": 2133,
+      "contestName": "Codeforces Round 1044 (Div. 2)",
+      "index": "B",
+      "name": "Villagers",
+      "rating": 800,
+      "tags": [
+        "greedy"
+      ],
+      "url": "https://codeforces.com/contest/2133/problem/B"
+    },
+    {
+      "id": "2134A",
+      "contestId": 2134,
+      "contestName": "Codeforces Round 1045 (Div. 2)",
+      "index": "A",
+      "name": "Painting With Two Colors",
+      "rating": 800,
+      "tags": [
+        "constructive algorithms",
+        "implementation",
+        "math"
+      ],
+      "url": "https://codeforces.com/contest/2134/problem/A"
+    },
+    {
+      "id": "2136A",
+      "contestId": 2136,
+      "contestName": "Codeforces Round 1046 (Div. 2)",
+      "index": "A",
+      "name": "In the Dream",
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "math"
+      ],
+      "url": "https://codeforces.com/contest/2136/problem/A"
+    },
+    {
+      "id": "2139A",
+      "contestId": 2139,
+      "contestName": "Codeforces Round 1048 (Div. 2)",
+      "index": "A",
+      "name": "Maple and Multiplication",
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "math"
+      ],
+      "url": "https://codeforces.com/contest/2139/problem/A"
+    },
+    {
+      "id": "2139B",
+      "contestId": 2139,
+      "contestName": "Codeforces Round 1048 (Div. 2)",
+      "index": "B",
+      "name": "Cake Collection",
+      "rating": 800,
+      "tags": [
+        "greedy"
+      ],
+      "url": "https://codeforces.com/contest/2139/problem/B"
+    },
+    {
+      "id": "2140A",
+      "contestId": 2140,
+      "contestName": "Codeforces Round 1049 (Div. 2)",
+      "index": "A",
+      "name": "Shift Sort",
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "sortings"
+      ],
+      "url": "https://codeforces.com/contest/2140/problem/A"
+    },
+    {
+      "id": "2143A",
+      "contestId": 2143,
+      "contestName": "Codeforces Round 1051 (Div. 2)",
+      "index": "A",
+      "name": "All Lengths Subtraction",
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "two pointers"
+      ],
+      "url": "https://codeforces.com/contest/2143/problem/A"
+    },
+    {
+      "id": "2144A",
+      "contestId": 2144,
+      "contestName": "Educational Codeforces Round 182 (Rated for Div. 2)",
+      "index": "A",
+      "name": "Cut the Array",
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "math",
+        "number theory"
+      ],
+      "url": "https://codeforces.com/contest/2144/problem/A"
+    },
+    {
+      "id": "2145A",
+      "contestId": 2145,
+      "contestName": "Educational Codeforces Round 183 (Rated for Div. 2)",
+      "index": "A",
+      "name": "Candies for Nephews",
+      "rating": 800,
+      "tags": [
+        "math"
+      ],
+      "url": "https://codeforces.com/contest/2145/problem/A"
+    },
+    {
+      "id": "2146A",
+      "contestId": 2146,
+      "contestName": "Codeforces Round 1052 (Div. 2)",
+      "index": "A",
+      "name": "Equal Occurrences",
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "greedy",
+        "implementation"
+      ],
+      "url": "https://codeforces.com/contest/2146/problem/A"
+    },
+    {
+      "id": "2147A",
+      "contestId": 2147,
+      "contestName": "Codeforces Global Round 29 (Div. 1 + Div. 2)",
+      "index": "A",
+      "name": "Shortest Increasing Path",
+      "rating": 800,
+      "tags": [
+        "constructive algorithms",
+        "greedy"
+      ],
+      "url": "https://codeforces.com/contest/2147/problem/A"
+    },
+    {
+      "id": "2151A",
+      "contestId": 2151,
+      "contestName": "Codeforces Round 1053 (Div. 2)",
+      "index": "A",
+      "name": "Incremental Subarray",
+      "rating": 800,
+      "tags": [
+        "math",
+        "strings"
+      ],
+      "url": "https://codeforces.com/contest/2151/problem/A"
+    },
+    {
+      "id": "2152A",
+      "contestId": 2152,
+      "contestName": "Squarepoint Challenge (Codeforces Round 1055, Div. 1 + Div. 2)",
+      "index": "A",
+      "name": "Increase or Smash",
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "implementation"
+      ],
+      "url": "https://codeforces.com/contest/2152/problem/A"
+    },
+    {
+      "id": "2153A",
+      "contestId": 2153,
+      "contestName": "Codeforces Round 1057 (Div. 2)",
+      "index": "A",
+      "name": "Circle of Apple Trees",
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "sortings"
+      ],
+      "url": "https://codeforces.com/contest/2153/problem/A"
+    },
+    {
+      "id": "2153B",
+      "contestId": 2153,
+      "contestName": "Codeforces Round 1057 (Div. 2)",
+      "index": "B",
+      "name": "Bitwise Reversion",
+      "rating": 800,
+      "tags": [
+        "bitmasks",
+        "greedy"
+      ],
+      "url": "https://codeforces.com/contest/2153/problem/B"
+    },
+    {
+      "id": "2154A",
+      "contestId": 2154,
+      "contestName": "Codeforces Round 1060 (Div. 2)",
+      "index": "A",
+      "name": "Notelock",
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "two pointers"
+      ],
+      "url": "https://codeforces.com/contest/2154/problem/A"
+    },
+    {
+      "id": "2155A",
+      "contestId": 2155,
+      "contestName": "Codeforces Round 1056 (Div. 2)",
+      "index": "A",
+      "name": "El fucho",
+      "rating": 800,
+      "tags": [
+        "implementation",
+        "math"
+      ],
+      "url": "https://codeforces.com/contest/2155/problem/A"
+    },
+    {
+      "id": "2156A",
+      "contestId": 2156,
+      "contestName": "Codeforces Round 1061 (Div. 2)",
+      "index": "A",
+      "name": "Pizza Time",
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "greedy"
+      ],
+      "url": "https://codeforces.com/contest/2156/problem/A"
+    },
+    {
+      "id": "2157A",
+      "contestId": 2157,
+      "contestName": "Codeforces Round 1066 (Div. 1 + Div. 2)",
+      "index": "A",
+      "name": "Dungeon Equilibrium",
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "implementation",
+        "sortings"
+      ],
+      "url": "https://codeforces.com/contest/2157/problem/A"
+    },
+    {
+      "id": "2160A",
+      "contestId": 2160,
+      "contestName": "Codeforces Round 1058 (Div. 2)",
+      "index": "A",
+      "name": "MEX Partition",
+      "rating": 800,
+      "tags": [
+        "math"
+      ],
+      "url": "https://codeforces.com/contest/2160/problem/A"
+    },
+    {
+      "id": "2161A",
+      "contestId": 2161,
+      "contestName": "Pinely Round 5 (Div. 1 + Div. 2)",
+      "index": "A",
+      "name": "Round Trip",
+      "rating": 800,
+      "tags": [
+        "games",
+        "greedy",
+        "implementation",
+        "math"
+      ],
+      "url": "https://codeforces.com/contest/2161/problem/A"
+    },
+    {
+      "id": "2163A",
+      "contestId": 2163,
+      "contestName": "Codeforces Round 1063 (Div. 2)",
+      "index": "A",
+      "name": "Souvlaki VS. Kalamaki",
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "greedy",
+        "math",
+        "sortings"
+      ],
+      "url": "https://codeforces.com/contest/2163/problem/A"
+    },
+    {
+      "id": "2164A",
+      "contestId": 2164,
+      "contestName": "Codeforces Global Round 30 (Div. 1 + Div. 2)",
+      "index": "A",
+      "name": "Sequence Game",
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "sortings"
+      ],
+      "url": "https://codeforces.com/contest/2164/problem/A"
+    },
+    {
+      "id": "2166A",
+      "contestId": 2166,
+      "contestName": "Codeforces Round 1064 (Div. 2)",
+      "index": "A",
+      "name": "Same Difference",
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "greedy",
+        "strings"
+      ],
+      "url": "https://codeforces.com/contest/2166/problem/A"
+    },
+    {
+      "id": "2062B",
+      "contestId": 2062,
+      "contestName": "Ethflow Round 1 (Codeforces Round 1001, Div. 1 + Div. 2)",
+      "index": "B",
+      "name": "Clockwork",
+      "rating": 900,
+      "tags": [
+        "greedy",
+        "math"
+      ],
+      "url": "https://codeforces.com/contest/2062/problem/B"
+    },
+    {
+      "id": "2085A",
+      "contestId": 2085,
+      "contestName": "Codeforces Round 1011 (Div. 2)",
+      "index": "A",
+      "name": "Serval and String Theory",
+      "rating": 900,
+      "tags": [
+        "constructive algorithms",
+        "implementation"
+      ],
+      "url": "https://codeforces.com/contest/2085/problem/A"
+    },
+    {
+      "id": "2102A",
+      "contestId": 2102,
+      "contestName": "Codeforces Round 1024 (Div. 2)",
+      "index": "A",
+      "name": "Dinner Time",
+      "rating": 900,
+      "tags": [
+        "constructive algorithms",
+        "math"
+      ],
+      "url": "https://codeforces.com/contest/2102/problem/A"
+    },
+    {
+      "id": "2102B",
+      "contestId": 2102,
+      "contestName": "Codeforces Round 1024 (Div. 2)",
+      "index": "B",
+      "name": "The Picky Cat",
+      "rating": 900,
+      "tags": [
+        "implementation",
+        "sortings"
+      ],
+      "url": "https://codeforces.com/contest/2102/problem/B"
+    },
+    {
+      "id": "2110B",
+      "contestId": 2110,
+      "contestName": "Codeforces Round 1026 (Div. 2)",
+      "index": "B",
+      "name": "Down with Brackets",
+      "rating": 900,
+      "tags": [
+        "strings"
+      ],
+      "url": "https://codeforces.com/contest/2110/problem/B"
+    },
+    {
+      "id": "2125B",
+      "contestId": 2125,
+      "contestName": "Educational Codeforces Round 181 (Rated for Div. 2)",
+      "index": "B",
+      "name": "Left and Down",
+      "rating": 900,
+      "tags": [
+        "math",
+        "number theory"
+      ],
+      "url": "https://codeforces.com/contest/2125/problem/B"
+    },
+    {
+      "id": "2136B",
+      "contestId": 2136,
+      "contestName": "Codeforces Round 1046 (Div. 2)",
+      "index": "B",
+      "name": "Like the Bitset",
+      "rating": 900,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "two pointers"
+      ],
+      "url": "https://codeforces.com/contest/2136/problem/B"
+    },
+    {
+      "id": "2140B",
+      "contestId": 2140,
+      "contestName": "Codeforces Round 1049 (Div. 2)",
+      "index": "B",
+      "name": "Another Divisibility Problem",
+      "rating": 900,
+      "tags": [
+        "constructive algorithms",
+        "math",
+        "number theory"
+      ],
+      "url": "https://codeforces.com/contest/2140/problem/B"
+    },
+    {
+      "id": "2157B",
+      "contestId": 2157,
+      "contestName": "Codeforces Round 1066 (Div. 1 + Div. 2)",
+      "index": "B",
+      "name": "Expansion Plan 2",
+      "rating": 900,
+      "tags": [
+        "implementation",
+        "math"
+      ],
+      "url": "https://codeforces.com/contest/2157/problem/B"
+    },
+    {
+      "id": "2166B",
+      "contestId": 2166,
+      "contestName": "Codeforces Round 1064 (Div. 2)",
+      "index": "B",
+      "name": "Tab Closing",
+      "rating": 900,
+      "tags": [
+        "math"
+      ],
+      "url": "https://codeforces.com/contest/2166/problem/B"
+    },
+    {
+      "id": "2169A",
+      "contestId": 2169,
+      "contestName": "Educational Codeforces Round 184 (Rated for Div. 2)",
+      "index": "A",
+      "name": "Alice and Bob",
+      "rating": 900,
+      "tags": [
+        "greedy",
+        "implementation"
+      ],
+      "url": "https://codeforces.com/contest/2169/problem/A"
+    },
+    {
+      "id": "2055B",
+      "contestId": 2055,
+      "contestName": "Codeforces Round 996 (Div. 2)",
+      "index": "B",
+      "name": "Crafting",
+      "rating": 1000,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "sortings"
+      ],
+      "url": "https://codeforces.com/contest/2055/problem/B"
+    },
+    {
+      "id": "2090B",
+      "contestId": 2090,
+      "contestName": "Codeforces Round 1012 (Div. 2)",
+      "index": "B",
+      "name": "Pushing Balls",
+      "rating": 1000,
+      "tags": [
+        "brute force",
+        "dp",
+        "implementation"
+      ],
+      "url": "https://codeforces.com/contest/2090/problem/B"
+    },
+    {
+      "id": "2092B",
+      "contestId": 2092,
+      "contestName": "Codeforces Round 1014 (Div. 2)",
+      "index": "B",
+      "name": "Lady Bug",
+      "rating": 1000,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "implementation",
+        "math"
+      ],
+      "url": "https://codeforces.com/contest/2092/problem/B"
+    },
+    {
+      "id": "2104B",
+      "contestId": 2104,
+      "contestName": "Educational Codeforces Round 178 (Rated for Div. 2)",
+      "index": "B",
+      "name": "Move to the End",
+      "rating": 1000,
+      "tags": [
+        "brute force",
+        "data structures",
+        "dp",
+        "greedy",
+        "implementation"
+      ],
+      "url": "https://codeforces.com/contest/2104/problem/B"
+    },
+    {
+      "id": "2120B",
+      "contestId": 2120,
+      "contestName": "Codeforces Round 1033 (Div. 2) and CodeNite 2025",
+      "index": "B",
+      "name": "Square Pool",
+      "rating": 1000,
+      "tags": [
+        "geometry"
+      ],
+      "url": "https://codeforces.com/contest/2120/problem/B"
+    },
+    {
+      "id": "2124B",
+      "contestId": 2124,
+      "contestName": "EPIC Institute of Technology Round Summer 2025 (Codeforces Round 1036, Div. 1 + Div. 2)",
+      "index": "B",
+      "name": "Minimise Sum",
+      "rating": 1000,
+      "tags": [
+        "greedy"
+      ],
+      "url": "https://codeforces.com/contest/2124/problem/B"
+    },
+    {
+      "id": "2143B",
+      "contestId": 2143,
+      "contestName": "Codeforces Round 1051 (Div. 2)",
+      "index": "B",
+      "name": "Discounts",
+      "rating": 1000,
+      "tags": [
+        "greedy",
+        "sortings",
+        "two pointers"
+      ],
+      "url": "https://codeforces.com/contest/2143/problem/B"
+    },
+    {
+      "id": "2144B",
+      "contestId": 2144,
+      "contestName": "Educational Codeforces Round 182 (Rated for Div. 2)",
+      "index": "B",
+      "name": "Maximum Cost Permutation",
+      "rating": 1000,
+      "tags": [
+        "constructive algorithms",
+        "greedy"
+      ],
+      "url": "https://codeforces.com/contest/2144/problem/B"
+    },
+    {
+      "id": "2145B",
+      "contestId": 2145,
+      "contestName": "Educational Codeforces Round 183 (Rated for Div. 2)",
+      "index": "B",
+      "name": "Deck of Cards",
+      "rating": 1000,
+      "tags": [
+        "greedy",
+        "implementation"
+      ],
+      "url": "https://codeforces.com/contest/2145/problem/B"
+    },
+    {
+      "id": "2147B",
+      "contestId": 2147,
+      "contestName": "Codeforces Global Round 29 (Div. 1 + Div. 2)",
+      "index": "B",
+      "name": "Multiple Construction",
+      "rating": 1000,
+      "tags": [
+        "constructive algorithms"
+      ],
+      "url": "https://codeforces.com/contest/2147/problem/B"
+    },
+    {
+      "id": "2154B",
+      "contestId": 2154,
+      "contestName": "Codeforces Round 1060 (Div. 2)",
+      "index": "B",
+      "name": "Make it Zigzag",
+      "rating": 1000,
+      "tags": [
+        "constructive algorithms",
+        "greedy"
+      ],
+      "url": "https://codeforces.com/contest/2154/problem/B"
+    },
+    {
+      "id": "2156B",
+      "contestId": 2156,
+      "contestName": "Codeforces Round 1061 (Div. 2)",
+      "index": "B",
+      "name": "Strange Machine",
+      "rating": 1000,
+      "tags": [
+        "binary search",
+        "brute force",
+        "greedy",
+        "implementation"
+      ],
+      "url": "https://codeforces.com/contest/2156/problem/B"
+    },
+    {
+      "id": "2164B",
+      "contestId": 2164,
+      "contestName": "Codeforces Global Round 30 (Div. 1 + Div. 2)",
+      "index": "B",
+      "name": "Even Modulo Pair",
+      "rating": 1000,
+      "tags": [
+        "brute force",
+        "math",
+        "number theory"
+      ],
+      "url": "https://codeforces.com/contest/2164/problem/B"
+    },
+    {
+      "id": "2061B",
+      "contestId": 2061,
+      "contestName": "IAEPC Preliminary Contest (Codeforces Round 999, Div. 1 + Div. 2)",
+      "index": "B",
+      "name": "Kevin and Geometry",
+      "rating": 1100,
+      "tags": [
+        "binary search",
+        "geometry"
+      ],
+      "url": "https://codeforces.com/contest/2061/problem/B"
+    },
+    {
+      "id": "2063B",
+      "contestId": 2063,
+      "contestName": "Codeforces Round 1000 (Div. 2)",
+      "index": "B",
+      "name": "Subsequence Update",
+      "rating": 1100,
+      "tags": [
+        "constructive algorithms",
+        "data structures",
+        "greedy",
+        "sortings"
+      ],
+      "url": "https://codeforces.com/contest/2063/problem/B"
+    },
+    {
+      "id": "2064B",
+      "contestId": 2064,
+      "contestName": "Codeforces Round 1005 (Div. 2)",
+      "index": "B",
+      "name": "Variety is Discouraged",
+      "rating": 1100,
+      "tags": [
+        "binary search",
+        "constructive algorithms",
+        "greedy",
+        "two pointers"
+      ],
+      "url": "https://codeforces.com/contest/2064/problem/B"
+    },
+    {
+      "id": "2070B",
+      "contestId": 2070,
+      "contestName": "Educational Codeforces Round 175 (Rated for Div. 2)",
+      "index": "B",
+      "name": "Robot Program",
+      "rating": 1100,
+      "tags": [
+        "brute force",
+        "implementation",
+        "math"
+      ],
+      "url": "https://codeforces.com/contest/2070/problem/B"
+    },
+    {
+      "id": "2071B",
+      "contestId": 2071,
+      "contestName": "Codeforces Round 1007 (Div. 2)",
+      "index": "B",
+      "name": "Perfecto",
+      "rating": 1100,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "greedy",
+        "math"
+      ],
+      "url": "https://codeforces.com/contest/2071/problem/B"
+    },
+    {
+      "id": "2078B",
+      "contestId": 2078,
+      "contestName": "Codeforces Round 1008 (Div. 2)",
+      "index": "B",
+      "name": "Vicious Labyrinth",
+      "rating": 1100,
+      "tags": [
+        "constructive algorithms",
+        "graphs",
+        "greedy",
+        "implementation",
+        "math"
+      ],
+      "url": "https://codeforces.com/contest/2078/problem/B"
+    },
+    {
+      "id": "2084B",
+      "contestId": 2084,
+      "contestName": "Teza Round 1 (Codeforces Round 1015, Div. 1 + Div. 2)",
+      "index": "B",
+      "name": "MIN = GCD",
+      "rating": 1100,
+      "tags": [
+        "greedy",
+        "math",
+        "number theory"
+      ],
+      "url": "https://codeforces.com/contest/2084/problem/B"
+    },
+    {
+      "id": "2086B",
+      "contestId": 2086,
+      "contestName": "Educational Codeforces Round 177 (Rated for Div. 2)",
+      "index": "B",
+      "name": "Large Array and Segments",
+      "rating": 1100,
+      "tags": [
+        "binary search",
+        "brute force",
+        "greedy"
+      ],
+      "url": "https://codeforces.com/contest/2086/problem/B"
+    },
+    {
+      "id": "2096B",
+      "contestId": 2096,
+      "contestName": "Neowise Labs Contest 1 (Codeforces Round 1018, Div. 1 + Div. 2)",
+      "index": "B",
+      "name": "Wonderful Gloves",
+      "rating": 1100,
+      "tags": [
+        "greedy",
+        "math",
+        "sortings"
+      ],
+      "url": "https://codeforces.com/contest/2096/problem/B"
+    },
+    {
+      "id": "2103B",
+      "contestId": 2103,
+      "contestName": "Codeforces Round 1019 (Div. 2)",
+      "index": "B",
+      "name": "Binary Typewriter",
+      "rating": 1100,
+      "tags": [
+        "greedy",
+        "math"
+      ],
+      "url": "https://codeforces.com/contest/2103/problem/B"
+    },
+    {
+      "id": "2104C",
+      "contestId": 2104,
+      "contestName": "Educational Codeforces Round 178 (Rated for Div. 2)",
+      "index": "C",
+      "name": "Card Game",
+      "rating": 1100,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "games",
+        "greedy",
+        "math"
+      ],
+      "url": "https://codeforces.com/contest/2104/problem/C"
+    },
+    {
+      "id": "2107B",
+      "contestId": 2107,
+      "contestName": "Codeforces Round 1023 (Div. 2)",
+      "index": "B",
+      "name": "Apples in Boxes",
+      "rating": 1100,
+      "tags": [
+        "games",
+        "greedy",
+        "math"
+      ],
+      "url": "https://codeforces.com/contest/2107/problem/B"
+    },
+    {
+      "id": "2111B",
+      "contestId": 2111,
+      "contestName": "Educational Codeforces Round 179 (Rated for Div. 2)",
+      "index": "B",
+      "name": "Fibonacci Cubes",
+      "rating": 1100,
+      "tags": [
+        "brute force",
+        "dp",
+        "implementation",
+        "math"
+      ],
+      "url": "https://codeforces.com/contest/2111/problem/B"
+    },
+    {
+      "id": "2111C",
+      "contestId": 2111,
+      "contestName": "Educational Codeforces Round 179 (Rated for Div. 2)",
+      "index": "C",
+      "name": "Equal Values",
+      "rating": 1100,
+      "tags": [
+        "brute force",
+        "greedy",
+        "two pointers"
+      ],
+      "url": "https://codeforces.com/contest/2111/problem/C"
+    },
+    {
+      "id": "2112B",
+      "contestId": 2112,
+      "contestName": "Educational Codeforces Round 180 (Rated for Div. 2)",
+      "index": "B",
+      "name": "Shrinking Array",
+      "rating": 1100,
+      "tags": [
+        "brute force",
+        "greedy"
+      ],
+      "url": "https://codeforces.com/contest/2112/problem/B"
+    },
+    {
+      "id": "2122B",
+      "contestId": 2122,
+      "contestName": "Order Capital Round 1 (Codeforces Round 1038, Div. 1 + Div. 2)",
+      "index": "B",
+      "name": "Pile Shuffling",
+      "rating": 1100,
+      "tags": [
+        "greedy",
+        "math"
+      ],
+      "url": "https://codeforces.com/contest/2122/problem/B"
+    },
+    {
+      "id": "2125C",
+      "contestId": 2125,
+      "contestName": "Educational Codeforces Round 181 (Rated for Div. 2)",
+      "index": "C",
+      "name": "Count Good Numbers",
+      "rating": 1100,
+      "tags": [
+        "bitmasks",
+        "combinatorics",
+        "math",
+        "number theory"
+      ],
+      "url": "https://codeforces.com/contest/2125/problem/C"
+    },
+    {
+      "id": "2128B",
+      "contestId": 2128,
+      "contestName": "Codeforces Round 1039 (Div. 2)",
+      "index": "B",
+      "name": "Deque Process",
+      "rating": 1100,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "sortings",
+        "two pointers"
+      ],
+      "url": "https://codeforces.com/contest/2128/problem/B"
+    },
+    {
+      "id": "2130B",
+      "contestId": 2130,
+      "contestName": "Codeforces Round 1040 (Div. 2)",
+      "index": "B",
+      "name": "Pathless",
+      "rating": 1100,
+      "tags": [
+        "constructive algorithms"
+      ],
+      "url": "https://codeforces.com/contest/2130/problem/B"
+    },
+    {
+      "id": "2146B",
+      "contestId": 2146,
+      "contestName": "Codeforces Round 1052 (Div. 2)",
+      "index": "B",
+      "name": "Merging the Sets",
+      "rating": 1100,
+      "tags": [
+        "greedy",
+        "implementation"
+      ],
+      "url": "https://codeforces.com/contest/2146/problem/B"
+    },
+    {
+      "id": "2155B",
+      "contestId": 2155,
+      "contestName": "Codeforces Round 1056 (Div. 2)",
+      "index": "B",
+      "name": "Abraham's Great Escape",
+      "rating": 1100,
+      "tags": [
+        "constructive algorithms",
+        "graphs"
+      ],
+      "url": "https://codeforces.com/contest/2155/problem/B"
+    },
+    {
+      "id": "2160B",
+      "contestId": 2160,
+      "contestName": "Codeforces Round 1058 (Div. 2)",
+      "index": "B",
+      "name": "Distinct Elements",
+      "rating": 1100,
+      "tags": [
+        "greedy",
+        "math"
+      ],
+      "url": "https://codeforces.com/contest/2160/problem/B"
+    },
+    {
+      "id": "2169B",
+      "contestId": 2169,
+      "contestName": "Educational Codeforces Round 184 (Rated for Div. 2)",
+      "index": "B",
+      "name": "Drifting Away",
+      "rating": 1100,
+      "tags": [
+        "greedy",
+        "implementation"
+      ],
+      "url": "https://codeforces.com/contest/2169/problem/B"
+    },
+    {
+      "id": "2056C",
+      "contestId": 2056,
+      "contestName": "Codeforces Round 997 (Div. 2)",
+      "index": "C",
+      "name": "Palindromic Subsequences",
+      "rating": 1200,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "math"
+      ],
+      "url": "https://codeforces.com/contest/2056/problem/C"
+    },
+    {
+      "id": "2062C",
+      "contestId": 2062,
+      "contestName": "Ethflow Round 1 (Codeforces Round 1001, Div. 1 + Div. 2)",
+      "index": "C",
+      "name": "Cirno and Operations",
+      "rating": 1200,
+      "tags": [
+        "brute force",
+        "math"
+      ],
+      "url": "https://codeforces.com/contest/2062/problem/C"
+    },
+    {
+      "id": "2067B",
+      "contestId": 2067,
+      "contestName": "Codeforces Round 1004 (Div. 2)",
+      "index": "B",
+      "name": "Two Large Bags",
+      "rating": 1200,
+      "tags": [
+        "brute force",
+        "dp",
+        "greedy",
+        "sortings"
+      ],
+      "url": "https://codeforces.com/contest/2067/problem/B"
+    },
+    {
+      "id": "2069B",
+      "contestId": 2069,
+      "contestName": "Educational Codeforces Round 174 (Rated for Div. 2)",
+      "index": "B",
+      "name": "Set of Strangers",
+      "rating": 1200,
+      "tags": [
+        "greedy",
+        "matrices"
+      ],
+      "url": "https://codeforces.com/contest/2069/problem/B"
+    },
+    {
+      "id": "2085B",
+      "contestId": 2085,
+      "contestName": "Codeforces Round 1011 (Div. 2)",
+      "index": "B",
+      "name": "Serval and Final MEX",
+      "rating": 1200,
+      "tags": [
+        "constructive algorithms",
+        "implementation"
+      ],
+      "url": "https://codeforces.com/contest/2085/problem/B"
+    },
+    {
+      "id": "2092C",
+      "contestId": 2092,
+      "contestName": "Codeforces Round 1014 (Div. 2)",
+      "index": "C",
+      "name": "Asuna and the Mosquitoes",
+      "rating": 1200,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "math"
+      ],
+      "url": "https://codeforces.com/contest/2092/problem/C"
+    },
+    {
+      "id": "2109B",
+      "contestId": 2109,
+      "contestName": "Codeforces Round 1025 (Div. 2)",
+      "index": "B",
+      "name": "Slice to Survive",
+      "rating": 1200,
+      "tags": [
+        "bitmasks",
+        "greedy",
+        "math"
+      ],
+      "url": "https://codeforces.com/contest/2109/problem/B"
+    },
+    {
+      "id": "2113B",
+      "contestId": 2113,
+      "contestName": "Codeforces Round 1031 (Div. 2)",
+      "index": "B",
+      "name": "Good Start",
+      "rating": 1200,
+      "tags": [
+        "constructive algorithms",
+        "math"
+      ],
+      "url": "https://codeforces.com/contest/2113/problem/B"
+    },
+    {
+      "id": "2118B",
+      "contestId": 2118,
+      "contestName": "Codeforces Round 1030 (Div. 2)",
+      "index": "B",
+      "name": "Make It Permutation",
+      "rating": 1200,
+      "tags": [
+        "constructive algorithms"
+      ],
+      "url": "https://codeforces.com/contest/2118/problem/B"
+    },
+    {
+      "id": "2119B",
+      "contestId": 2119,
+      "contestName": "Codeforces Round 1035 (Div. 2)",
+      "index": "B",
+      "name": "Line Segments",
+      "rating": 1200,
+      "tags": [
+        "geometry",
+        "greedy",
+        "math"
+      ],
+      "url": "https://codeforces.com/contest/2119/problem/B"
+    },
+    {
+      "id": "2128C",
+      "contestId": 2128,
+      "contestName": "Codeforces Round 1039 (Div. 2)",
+      "index": "C",
+      "name": "Leftmost Below",
+      "rating": 1200,
+      "tags": [
+        "greedy",
+        "math"
+      ],
+      "url": "https://codeforces.com/contest/2128/problem/C"
+    },
+    {
+      "id": "2134B",
+      "contestId": 2134,
+      "contestName": "Codeforces Round 1045 (Div. 2)",
+      "index": "B",
+      "name": "Add 0 or K",
+      "rating": 1200,
+      "tags": [
+        "constructive algorithms",
+        "math",
+        "number theory"
+      ],
+      "url": "https://codeforces.com/contest/2134/problem/B"
+    },
+    {
+      "id": "2134C",
+      "contestId": 2134,
+      "contestName": "Codeforces Round 1045 (Div. 2)",
+      "index": "C",
+      "name": "Even Larger",
+      "rating": 1200,
+      "tags": [
+        "brute force",
+        "greedy",
+        "implementation"
+      ],
+      "url": "https://codeforces.com/contest/2134/problem/C"
+    },
+    {
+      "id": "2161C",
+      "contestId": 2161,
+      "contestName": "Pinely Round 5 (Div. 1 + Div. 2)",
+      "index": "C",
+      "name": "Loyalty",
+      "rating": 1200,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "sortings",
+        "two pointers"
+      ],
+      "url": "https://codeforces.com/contest/2161/problem/C"
+    },
+    {
+      "id": "2056B",
+      "contestId": 2056,
+      "contestName": "Codeforces Round 997 (Div. 2)",
+      "index": "B",
+      "name": "Find the Permutation",
+      "rating": 1300,
+      "tags": [
+        "brute force",
+        "dfs and similar",
+        "graphs",
+        "implementation",
+        "sortings"
+      ],
+      "url": "https://codeforces.com/contest/2056/problem/B"
+    },
+    {
+      "id": "2059B",
+      "contestId": 2059,
+      "contestName": "Codeforces Round 1002 (Div. 2)",
+      "index": "B",
+      "name": "Cost of the Array",
+      "rating": 1300,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "greedy",
+        "math"
+      ],
+      "url": "https://codeforces.com/contest/2059/problem/B"
+    },
+    {
+      "id": "2064C",
+      "contestId": 2064,
+      "contestName": "Codeforces Round 1005 (Div. 2)",
+      "index": "C",
+      "name": "Remove the Ends",
+      "rating": 1300,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "dp",
+        "greedy"
+      ],
+      "url": "https://codeforces.com/contest/2064/problem/C"
+    },
+    {
+      "id": "2075B",
+      "contestId": 2075,
+      "contestName": "Educational Codeforces Round 176 (Rated for Div. 2)",
+      "index": "B",
+      "name": "Array Recoloring",
+      "rating": 1300,
+      "tags": [
+        "constructive algorithms",
+        "greedy"
+      ],
+      "url": "https://codeforces.com/contest/2075/problem/B"
+    },
+    {
+      "id": "2086C",
+      "contestId": 2086,
+      "contestName": "Educational Codeforces Round 177 (Rated for Div. 2)",
+      "index": "C",
+      "name": "Disappearing Permutation",
+      "rating": 1300,
+      "tags": [
+        "dfs and similar",
+        "dp",
+        "dsu",
+        "graphs",
+        "greedy",
+        "implementation"
+      ],
+      "url": "https://codeforces.com/contest/2086/problem/C"
+    },
+    {
+      "id": "2108B",
+      "contestId": 2108,
+      "contestName": "Codeforces Round 1022 (Div. 2)",
+      "index": "B",
+      "name": "SUMdamental Decomposition",
+      "rating": 1300,
+      "tags": [
+        "bitmasks",
+        "constructive algorithms",
+        "greedy",
+        "implementation",
+        "math"
+      ],
+      "url": "https://codeforces.com/contest/2108/problem/B"
+    },
+    {
+      "id": "2112C",
+      "contestId": 2112,
+      "contestName": "Educational Codeforces Round 180 (Rated for Div. 2)",
+      "index": "C",
+      "name": "Coloring Game",
+      "rating": 1300,
+      "tags": [
+        "binary search",
+        "brute force",
+        "greedy",
+        "two pointers"
+      ],
+      "url": "https://codeforces.com/contest/2112/problem/C"
+    },
+    {
+      "id": "2116B",
+      "contestId": 2116,
+      "contestName": "Codeforces Round 1028 (Div. 2)",
+      "index": "B",
+      "name": "Gellyfish and Baby's Breath",
+      "rating": 1300,
+      "tags": [
+        "greedy",
+        "math",
+        "sortings"
+      ],
+      "url": "https://codeforces.com/contest/2116/problem/B"
+    },
+    {
+      "id": "2118C",
+      "contestId": 2118,
+      "contestName": "Codeforces Round 1030 (Div. 2)",
+      "index": "C",
+      "name": "Make It Beautiful",
+      "rating": 1300,
+      "tags": [
+        "bitmasks",
+        "data structures",
+        "greedy",
+        "math"
+      ],
+      "url": "https://codeforces.com/contest/2118/problem/C"
+    },
+    {
+      "id": "2119C",
+      "contestId": 2119,
+      "contestName": "Codeforces Round 1035 (Div. 2)",
+      "index": "C",
+      "name": "A Good Problem",
+      "rating": 1300,
+      "tags": [
+        "bitmasks",
+        "constructive algorithms",
+        "math"
+      ],
+      "url": "https://codeforces.com/contest/2119/problem/C"
+    },
+    {
+      "id": "2124C",
+      "contestId": 2124,
+      "contestName": "EPIC Institute of Technology Round Summer 2025 (Codeforces Round 1036, Div. 1 + Div. 2)",
+      "index": "C",
+      "name": "Subset Multiplication",
+      "rating": 1300,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "math",
+        "number theory"
+      ],
+      "url": "https://codeforces.com/contest/2124/problem/C"
+    },
+    {
+      "id": "2127B",
+      "contestId": 2127,
+      "contestName": "Atto Round 1 (Codeforces Round 1041, Div. 1 + Div. 2)",
+      "index": "B",
+      "name": "Hamiiid, Haaamid... Hamid?",
+      "rating": 1300,
+      "tags": [
+        "games",
+        "greedy"
+      ],
+      "url": "https://codeforces.com/contest/2127/problem/B"
+    },
+    {
+      "id": "2143C",
+      "contestId": 2143,
+      "contestName": "Codeforces Round 1051 (Div. 2)",
+      "index": "C",
+      "name": "Max Tree",
+      "rating": 1300,
+      "tags": [
+        "constructive algorithms",
+        "dfs and similar",
+        "graphs",
+        "greedy"
+      ],
+      "url": "https://codeforces.com/contest/2143/problem/C"
+    },
+    {
+      "id": "2144C",
+      "contestId": 2144,
+      "contestName": "Educational Codeforces Round 182 (Rated for Div. 2)",
+      "index": "C",
+      "name": "Non-Descending Arrays",
+      "rating": 1300,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "math"
+      ],
+      "url": "https://codeforces.com/contest/2144/problem/C"
+    },
+    {
+      "id": "2145C",
+      "contestId": 2145,
+      "contestName": "Educational Codeforces Round 183 (Rated for Div. 2)",
+      "index": "C",
+      "name": "Monocarp's String",
+      "rating": 1300,
+      "tags": [
+        "binary search",
+        "greedy",
+        "strings"
+      ],
+      "url": "https://codeforces.com/contest/2145/problem/C"
+    },
+    {
+      "id": "2146C",
+      "contestId": 2146,
+      "contestName": "Codeforces Round 1052 (Div. 2)",
+      "index": "C",
+      "name": "Wrong Binary Search",
+      "rating": 1300,
+      "tags": [
+        "binary search",
+        "constructive algorithms"
+      ],
+      "url": "https://codeforces.com/contest/2146/problem/C"
+    },
+    {
+      "id": "2152B",
+      "contestId": 2152,
+      "contestName": "Squarepoint Challenge (Codeforces Round 1055, Div. 1 + Div. 2)",
+      "index": "B",
+      "name": "Catching the Krug",
+      "rating": 1300,
+      "tags": [
+        "games"
+      ],
+      "url": "https://codeforces.com/contest/2152/problem/B"
+    },
+    {
+      "id": "2160C",
+      "contestId": 2160,
+      "contestName": "Codeforces Round 1058 (Div. 2)",
+      "index": "C",
+      "name": "Reverse XOR",
+      "rating": 1300,
+      "tags": [
+        "bitmasks"
+      ],
+      "url": "https://codeforces.com/contest/2160/problem/C"
+    },
+    {
+      "id": "2169C",
+      "contestId": 2169,
+      "contestName": "Educational Codeforces Round 184 (Rated for Div. 2)",
+      "index": "C",
+      "name": "Range Operation",
+      "rating": 1300,
+      "tags": [
+        "dp",
+        "greedy",
+        "math",
+        "two pointers"
+      ],
+      "url": "https://codeforces.com/contest/2169/problem/C"
+    },
+    {
+      "id": "2055C",
+      "contestId": 2055,
+      "contestName": "Codeforces Round 996 (Div. 2)",
+      "index": "C",
+      "name": "The Trail",
+      "rating": 1400,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "greedy",
+        "math",
+        "two pointers"
+      ],
+      "url": "https://codeforces.com/contest/2055/problem/C"
+    },
+    {
+      "id": "2084C",
+      "contestId": 2084,
+      "contestName": "Teza Round 1 (Codeforces Round 1015, Div. 1 + Div. 2)",
+      "index": "C",
+      "name": "You Soared Afar With Grace",
+      "rating": 1400,
+      "tags": [
+        "constructive algorithms",
+        "data structures",
+        "greedy",
+        "implementation"
+      ],
+      "url": "https://codeforces.com/contest/2084/problem/C"
+    },
+    {
+      "id": "2098B",
+      "contestId": 2098,
+      "contestName": "Codeforces Round 1021 (Div. 2)",
+      "index": "B",
+      "name": "Sasha and the Apartment Purchase",
+      "rating": 1400,
+      "tags": [
+        "math",
+        "sortings"
+      ],
+      "url": "https://codeforces.com/contest/2098/problem/B"
+    },
+    {
+      "id": "2110C",
+      "contestId": 2110,
+      "contestName": "Codeforces Round 1026 (Div. 2)",
+      "index": "C",
+      "name": "Racing",
+      "rating": 1400,
+      "tags": [
+        "constructive algorithms",
+        "greedy"
+      ],
+      "url": "https://codeforces.com/contest/2110/problem/C"
+    },
+    {
+      "id": "2120C",
+      "contestId": 2120,
+      "contestName": "Codeforces Round 1033 (Div. 2) and CodeNite 2025",
+      "index": "C",
+      "name": "Divine Tree",
+      "rating": 1400,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "math",
+        "sortings",
+        "trees"
+      ],
+      "url": "https://codeforces.com/contest/2120/problem/C"
+    },
+    {
+      "id": "2127C",
+      "contestId": 2127,
+      "contestName": "Atto Round 1 (Codeforces Round 1041, Div. 1 + Div. 2)",
+      "index": "C",
+      "name": "Trip Shopping",
+      "rating": 1400,
+      "tags": [
+        "games",
+        "greedy",
+        "sortings"
+      ],
+      "url": "https://codeforces.com/contest/2127/problem/C"
+    },
+    {
+      "id": "2133C",
+      "contestId": 2133,
+      "contestName": "Codeforces Round 1044 (Div. 2)",
+      "index": "C",
+      "name": "The Nether",
+      "rating": 1400,
+      "tags": [
+        "graphs",
+        "interactive"
+      ],
+      "url": "https://codeforces.com/contest/2133/problem/C"
+    },
+    {
+      "id": "2151C",
+      "contestId": 2151,
+      "contestName": "Codeforces Round 1053 (Div. 2)",
+      "index": "C",
+      "name": "Incremental Stay",
+      "rating": 1400,
+      "tags": [
+        "greedy",
+        "implementation",
+        "math"
+      ],
+      "url": "https://codeforces.com/contest/2151/problem/C"
+    },
+    {
+      "id": "2152C",
+      "contestId": 2152,
+      "contestName": "Squarepoint Challenge (Codeforces Round 1055, Div. 1 + Div. 2)",
+      "index": "C",
+      "name": "Triple Removal",
+      "rating": 1400,
+      "tags": [
+        "data structures",
+        "greedy",
+        "math"
+      ],
+      "url": "https://codeforces.com/contest/2152/problem/C"
+    },
+    {
+      "id": "2156C",
+      "contestId": 2156,
+      "contestName": "Codeforces Round 1061 (Div. 2)",
+      "index": "C",
+      "name": "Maximum GCD on Whiteboard",
+      "rating": 1400,
+      "tags": [
+        "greedy",
+        "math",
+        "number theory"
+      ],
+      "url": "https://codeforces.com/contest/2156/problem/C"
+    },
+    {
+      "id": "2157C",
+      "contestId": 2157,
+      "contestName": "Codeforces Round 1066 (Div. 1 + Div. 2)",
+      "index": "C",
+      "name": "Meximum Array 2",
+      "rating": 1400,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "implementation",
+        "math"
+      ],
+      "url": "https://codeforces.com/contest/2157/problem/C"
+    },
+    {
+      "id": "2164C",
+      "contestId": 2164,
+      "contestName": "Codeforces Global Round 30 (Div. 1 + Div. 2)",
+      "index": "C",
+      "name": "Dungeon",
+      "rating": 1400,
+      "tags": [
+        "binary search",
+        "brute force",
+        "data structures",
+        "greedy",
+        "sortings"
+      ],
+      "url": "https://codeforces.com/contest/2164/problem/C"
+    },
+    {
+      "id": "2067C",
+      "contestId": 2067,
+      "contestName": "Codeforces Round 1004 (Div. 2)",
+      "index": "C",
+      "name": "Devyatkino",
+      "rating": 1500,
+      "tags": [
+        "brute force",
+        "dfs and similar",
+        "greedy",
+        "math"
+      ],
+      "url": "https://codeforces.com/contest/2067/problem/C"
+    },
+    {
+      "id": "2069C",
+      "contestId": 2069,
+      "contestName": "Educational Codeforces Round 174 (Rated for Div. 2)",
+      "index": "C",
+      "name": "Beautiful Sequence",
+      "rating": 1500,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "greedy",
+        "two pointers"
+      ],
+      "url": "https://codeforces.com/contest/2069/problem/C"
+    },
+    {
+      "id": "2070C",
+      "contestId": 2070,
+      "contestName": "Educational Codeforces Round 175 (Rated for Div. 2)",
+      "index": "C",
+      "name": "Limited Repainting",
+      "rating": 1500,
+      "tags": [
+        "binary search",
+        "greedy"
+      ],
+      "url": "https://codeforces.com/contest/2070/problem/C"
+    },
+    {
+      "id": "2075C",
+      "contestId": 2075,
+      "contestName": "Educational Codeforces Round 176 (Rated for Div. 2)",
+      "index": "C",
+      "name": "Two Colors",
+      "rating": 1500,
+      "tags": [
+        "binary search",
+        "combinatorics",
+        "math"
+      ],
+      "url": "https://codeforces.com/contest/2075/problem/C"
+    },
+    {
+      "id": "2107C",
+      "contestId": 2107,
+      "contestName": "Codeforces Round 1023 (Div. 2)",
+      "index": "C",
+      "name": "Maximum Subarray Sum",
+      "rating": 1500,
+      "tags": [
+        "binary search",
+        "constructive algorithms",
+        "dp",
+        "implementation",
+        "math"
+      ],
+      "url": "https://codeforces.com/contest/2107/problem/C"
+    },
+    {
+      "id": "2108C",
+      "contestId": 2108,
+      "contestName": "Codeforces Round 1022 (Div. 2)",
+      "index": "C",
+      "name": "Neo's Escape",
+      "rating": 1500,
+      "tags": [
+        "binary search",
+        "brute force",
+        "data structures",
+        "dp",
+        "dsu",
+        "graphs",
+        "greedy",
+        "implementation"
+      ],
+      "url": "https://codeforces.com/contest/2108/problem/C"
+    },
+    {
+      "id": "2140C",
+      "contestId": 2140,
+      "contestName": "Codeforces Round 1049 (Div. 2)",
+      "index": "C",
+      "name": "Ultimate Value",
+      "rating": 1500,
+      "tags": [
+        "data structures",
+        "games",
+        "greedy"
+      ],
+      "url": "https://codeforces.com/contest/2140/problem/C"
+    },
+    {
+      "id": "2147C",
+      "contestId": 2147,
+      "contestName": "Codeforces Global Round 29 (Div. 1 + Div. 2)",
+      "index": "C",
+      "name": "Rabbits",
+      "rating": 1500,
+      "tags": [
+        "constructive algorithms",
+        "dp",
+        "greedy",
+        "implementation"
+      ],
+      "url": "https://codeforces.com/contest/2147/problem/C"
+    },
+    {
+      "id": "2153C",
+      "contestId": 2153,
+      "contestName": "Codeforces Round 1057 (Div. 2)",
+      "index": "C",
+      "name": "Symmetrical Polygons",
+      "rating": 1500,
+      "tags": [
+        "constructive algorithms",
+        "geometry",
+        "greedy",
+        "implementation",
+        "sortings"
+      ],
+      "url": "https://codeforces.com/contest/2153/problem/C"
+    },
+    {
+      "id": "2155C",
+      "contestId": 2155,
+      "contestName": "Codeforces Round 1056 (Div. 2)",
+      "index": "C",
+      "name": "The Ancient Wizards' Capes",
+      "rating": 1500,
+      "tags": [
+        "brute force",
+        "greedy",
+        "implementation"
+      ],
+      "url": "https://codeforces.com/contest/2155/problem/C"
+    },
+    {
+      "id": "2163C",
+      "contestId": 2163,
+      "contestName": "Codeforces Round 1063 (Div. 2)",
+      "index": "C",
+      "name": "Monopati",
+      "rating": 1500,
+      "tags": [
+        "brute force",
+        "combinatorics",
+        "dp",
+        "math",
+        "two pointers"
+      ],
+      "url": "https://codeforces.com/contest/2163/problem/C"
+    },
+    {
+      "id": "2059C",
+      "contestId": 2059,
+      "contestName": "Codeforces Round 1002 (Div. 2)",
+      "index": "C",
+      "name": "Customer Service",
+      "rating": 1600,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "graph matchings",
+        "greedy",
+        "math",
+        "sortings"
+      ],
+      "url": "https://codeforces.com/contest/2059/problem/C"
+    },
+    {
+      "id": "2061C",
+      "contestId": 2061,
+      "contestName": "IAEPC Preliminary Contest (Codeforces Round 999, Div. 1 + Div. 2)",
+      "index": "C",
+      "name": "Kevin and Puzzle",
+      "rating": 1600,
+      "tags": [
+        "2-sat",
+        "combinatorics",
+        "dp"
+      ],
+      "url": "https://codeforces.com/contest/2061/problem/C"
+    },
+    {
+      "id": "2063C",
+      "contestId": 2063,
+      "contestName": "Codeforces Round 1000 (Div. 2)",
+      "index": "C",
+      "name": "Remove Exactly Two",
+      "rating": 1600,
+      "tags": [
+        "brute force",
+        "data structures",
+        "dfs and similar",
+        "dp",
+        "graphs",
+        "greedy",
+        "sortings",
+        "trees"
+      ],
+      "url": "https://codeforces.com/contest/2063/problem/C"
+    },
+    {
+      "id": "2082B",
+      "contestId": 2082,
+      "contestName": "Codeforces Round 1010 (Div. 2, Unrated)",
+      "index": "B",
+      "name": "Floor or Ceil",
+      "rating": 1600,
+      "tags": [
+        "brute force",
+        "greedy"
+      ],
+      "url": "https://codeforces.com/contest/2082/problem/B"
+    },
+    {
+      "id": "2085C",
+      "contestId": 2085,
+      "contestName": "Codeforces Round 1011 (Div. 2)",
+      "index": "C",
+      "name": "Serval and The Formula",
+      "rating": 1600,
+      "tags": [
+        "bitmasks",
+        "constructive algorithms",
+        "dp",
+        "greedy"
+      ],
+      "url": "https://codeforces.com/contest/2085/problem/C"
+    },
+    {
+      "id": "2103C",
+      "contestId": 2103,
+      "contestName": "Codeforces Round 1019 (Div. 2)",
+      "index": "C",
+      "name": "Median Splits",
+      "rating": 1600,
+      "tags": [
+        "binary search",
+        "greedy",
+        "implementation",
+        "sortings"
+      ],
+      "url": "https://codeforces.com/contest/2103/problem/C"
+    },
+    {
+      "id": "2071C",
+      "contestId": 2071,
+      "contestName": "Codeforces Round 1007 (Div. 2)",
+      "index": "C",
+      "name": "Trapmigiano Reggiano",
+      "rating": 1700,
+      "tags": [
+        "constructive algorithms",
+        "data structures",
+        "dfs and similar",
+        "dp",
+        "greedy",
+        "sortings",
+        "trees"
+      ],
+      "url": "https://codeforces.com/contest/2071/problem/C"
+    },
+    {
+      "id": "2090C",
+      "contestId": 2090,
+      "contestName": "Codeforces Round 1012 (Div. 2)",
+      "index": "C",
+      "name": "Dining Hall",
+      "rating": 1700,
+      "tags": [
+        "data structures",
+        "greedy",
+        "implementation",
+        "sortings"
+      ],
+      "url": "https://codeforces.com/contest/2090/problem/C"
+    },
+    {
+      "id": "2096C",
+      "contestId": 2096,
+      "contestName": "Neowise Labs Contest 1 (Codeforces Round 1018, Div. 1 + Div. 2)",
+      "index": "C",
+      "name": "Wonderful City",
+      "rating": 1700,
+      "tags": [
+        "dp",
+        "implementation"
+      ],
+      "url": "https://codeforces.com/contest/2096/problem/C"
+    },
+    {
+      "id": "2113C",
+      "contestId": 2113,
+      "contestName": "Codeforces Round 1031 (Div. 2)",
+      "index": "C",
+      "name": "Smilo and Minecraft",
+      "rating": 1700,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "greedy"
+      ],
+      "url": "https://codeforces.com/contest/2113/problem/C"
+    },
+    {
+      "id": "2122C",
+      "contestId": 2122,
+      "contestName": "Order Capital Round 1 (Codeforces Round 1038, Div. 1 + Div. 2)",
+      "index": "C",
+      "name": "Manhattan Pairs",
+      "rating": 1700,
+      "tags": [
+        "constructive algorithms",
+        "geometry",
+        "greedy",
+        "math",
+        "sortings"
+      ],
+      "url": "https://codeforces.com/contest/2122/problem/C"
+    },
+    {
+      "id": "2161B",
+      "contestId": 2161,
+      "contestName": "Pinely Round 5 (Div. 1 + Div. 2)",
+      "index": "B",
+      "name": "Make Connected",
+      "rating": 1700,
+      "tags": [
+        "brute force",
+        "implementation"
+      ],
+      "url": "https://codeforces.com/contest/2161/problem/B"
+    },
+    {
+      "id": "2163B",
+      "contestId": 2163,
+      "contestName": "Codeforces Round 1063 (Div. 2)",
+      "index": "B",
+      "name": "Siga ta Kymata",
+      "rating": 1700,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "implementation",
+        "math"
+      ],
+      "url": "https://codeforces.com/contest/2163/problem/B"
+    },
+    {
+      "id": "2158A",
+      "contestId": 2158,
+      "contestName": "Codeforces Round 1067 (Div. 2)",
+      "index": "A",
+      "name": "Suspension",
+      "rating": null,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "math"
+      ],
+      "url": "https://codeforces.com/contest/2158/problem/A"
+    },
+    {
+      "id": "2158B",
+      "contestId": 2158,
+      "contestName": "Codeforces Round 1067 (Div. 2)",
+      "index": "B",
+      "name": "Split",
+      "rating": null,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "math"
+      ],
+      "url": "https://codeforces.com/contest/2158/problem/B"
+    },
+    {
+      "id": "2158C",
+      "contestId": 2158,
+      "contestName": "Codeforces Round 1067 (Div. 2)",
+      "index": "C",
+      "name": "Annoying Game",
+      "rating": null,
+      "tags": [
+        "dp",
+        "games",
+        "greedy"
+      ],
+      "url": "https://codeforces.com/contest/2158/problem/C"
+    },
+    {
+      "id": "2170A",
+      "contestId": 2170,
+      "contestName": "Educational Codeforces Round 185 (Rated for Div. 2)",
+      "index": "A",
+      "name": "Maximum Neighborhood",
+      "rating": null,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "greedy",
+        "implementation",
+        "math"
+      ],
+      "url": "https://codeforces.com/contest/2170/problem/A"
+    },
+    {
+      "id": "2170B",
+      "contestId": 2170,
+      "contestName": "Educational Codeforces Round 185 (Rated for Div. 2)",
+      "index": "B",
+      "name": "Addition on a Segment",
+      "rating": null,
+      "tags": [
+        "greedy",
+        "math"
+      ],
+      "url": "https://codeforces.com/contest/2170/problem/B"
+    },
+    {
+      "id": "2170C",
+      "contestId": 2170,
+      "contestName": "Educational Codeforces Round 185 (Rated for Div. 2)",
+      "index": "C",
+      "name": "Quotient and Remainder",
+      "rating": null,
+      "tags": [
+        "binary search",
+        "greedy",
+        "two pointers"
+      ],
+      "url": "https://codeforces.com/contest/2170/problem/C"
+    },
+    {
+      "id": "2173A",
+      "contestId": 2173,
+      "contestName": "Codeforces Round 1068 (Div. 2)",
+      "index": "A",
+      "name": "Sleeping Through Classes",
+      "rating": null,
+      "tags": [
+        "greedy",
+        "implementation"
+      ],
+      "url": "https://codeforces.com/contest/2173/problem/A"
+    },
+    {
+      "id": "2173B",
+      "contestId": 2173,
+      "contestName": "Codeforces Round 1068 (Div. 2)",
+      "index": "B",
+      "name": "Niko's Tactical Cards",
+      "rating": null,
+      "tags": [
+        "dp",
+        "greedy",
+        "math"
+      ],
+      "url": "https://codeforces.com/contest/2173/problem/B"
+    },
+    {
+      "id": "2173C",
+      "contestId": 2173,
+      "contestName": "Codeforces Round 1068 (Div. 2)",
+      "index": "C",
+      "name": "Kanade's Perfect Multiples",
+      "rating": null,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "greedy",
+        "number theory"
+      ],
+      "url": "https://codeforces.com/contest/2173/problem/C"
+    },
+    {
+      "id": "2175A",
+      "contestId": 2175,
+      "contestName": "Codeforces Round 1069 (Div. 2)",
+      "index": "A",
+      "name": "Little Fairy's Painting",
+      "rating": null,
+      "tags": [
+        "implementation"
+      ],
+      "url": "https://codeforces.com/contest/2175/problem/A"
+    },
+    {
+      "id": "2175B",
+      "contestId": 2175,
+      "contestName": "Codeforces Round 1069 (Div. 2)",
+      "index": "B",
+      "name": "XOR Array",
+      "rating": null,
+      "tags": [
+        "constructive algorithms",
+        "math"
+      ],
+      "url": "https://codeforces.com/contest/2175/problem/B"
+    },
+    {
+      "id": "2176A",
+      "contestId": 2176,
+      "contestName": "Codeforces Round 1070 (Div. 2)",
+      "index": "A",
+      "name": "Operations with Inversions",
+      "rating": null,
+      "tags": [
+        "greedy",
+        "implementation",
+        "math"
+      ],
+      "url": "https://codeforces.com/contest/2176/problem/A"
+    },
+    {
+      "id": "2176B",
+      "contestId": 2176,
+      "contestName": "Codeforces Round 1070 (Div. 2)",
+      "index": "B",
+      "name": "Optimal Shifts",
+      "rating": null,
+      "tags": [
+        "bitmasks",
+        "greedy",
+        "strings"
+      ],
+      "url": "https://codeforces.com/contest/2176/problem/B"
+    },
+    {
+      "id": "2176C",
+      "contestId": 2176,
+      "contestName": "Codeforces Round 1070 (Div. 2)",
+      "index": "C",
+      "name": "Odd Process",
+      "rating": null,
+      "tags": [
+        "greedy",
+        "sortings"
+      ],
+      "url": "https://codeforces.com/contest/2176/problem/C"
+    }
+  ]
+}
