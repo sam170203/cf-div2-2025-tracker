@@ -1,4 +1,5 @@
 import "./globals.css"
+import { Analytics } from "@vercel/analytics/next"
 
 export const metadata = {
   title: "CF Div2 2025 Sheet",
@@ -14,6 +15,7 @@ export default function RootLayout({
     <html lang="en">
       <body className="bg-black text-white">
         {children}
+        <Analytics />
       </body>
     </html>
   )
