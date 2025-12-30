@@ -1,55 +1,82 @@
-type Sheet = "A" | "B" | "C"
+"use client";
+
+type Sheet = "A" | "B" | "C" | "D";
 
 export default function SheetSelector({
   sheet,
   setSheet,
+  division,
+  dark,
 }: {
-  sheet: Sheet
-  setSheet: (s: Sheet) => void
+  sheet: "A" | "B" | "C" | "D";
+  setSheet: (s: "A" | "B" | "C" | "D") => void;
+  division: "div2" | "div3";
+  dark: boolean;
 }) {
-  const styles: Record<Sheet, { border: string; bg: string; text: string }> = {
-    A: {
-      border: "#22c55e", // green
-      bg: "rgba(34, 197, 94, 0.15)",
-      text: "#22c55e",
-    },
-    B: {
-      border: "#22d3ee", // cyan
-      bg: "rgba(34, 211, 238, 0.15)",
-      text: "#22d3ee",
-    },
-    C: {
-      border: "#3b82f6", // blue
-      bg: "rgba(59, 130, 246, 0.15)",
-      text: "#3b82f6",
-    },
-  }
+  const options: Sheet[] = ["A", "B", "C", "D"];
+
+  const colors: Record<Sheet, string> = {
+    A: "#22c55e",
+    B: "#3b82f6",
+    C: "#a855f7",
+    D: "#f97316",
+  };
 
   return (
-    <div style={{ marginTop: 24, display: "grid", gridTemplateColumns: "repeat(3, 1fr)", gap: 16 }}>
-      {(["A", "B", "C"] as Sheet[]).map((s) => {
-        const active = sheet === s
+    <div
+      style={{
+        marginTop: 30,
+        display: "grid",
+        gridTemplateColumns: "repeat(4, 1fr)",
+        gap: 18,
+      }}
+    >
+      {options.map((s) => {
+        const active = sheet === s;
+        const color = colors[s];
 
         return (
           <button
             key={s}
             onClick={() => setSheet(s)}
             style={{
-              padding: "20px",
-              borderRadius: "10px",
-              border: `2px solid ${active ? styles[s].border : "#27272a"}`,
-              backgroundColor: active ? styles[s].bg : "#09090b",
-              color: active ? styles[s].text : "#e5e7eb",
+              padding: "18px",
+              borderRadius: "14px",
               fontSize: "18px",
-              fontWeight: 600,
+              fontWeight: 700,
               cursor: "pointer",
-              transition: "all 0.2s ease",
+              transition: "0.25s ease",
+              transform: active ? "translateY(-3px)" : "translateY(0)",
+
+              /** 🌙 DARK MODE — looks same as before */
+              ...(dark && {
+                border: active
+                  ? `2px solid ${color}`
+                  : "2px solid rgba(255,255,255,0.15)",
+                background: active
+                  ? `${color}15`
+                  : "rgba(255,255,255,0.08)",
+                color: active ? "#ffffff" : "#d1d5db",
+                boxShadow: active
+                  ? `0 0 12px ${color}55`
+                  : "none",
+              }),
+
+              /** ☀️ LIGHT MODE — darker buttons for visibility */
+              ...(!dark && {
+                border: active ? `2px solid ${color}` : "2px solid #1e293b",
+                background: active ? `${color}20` : "#1e293b",
+                color: active ? "#ffffff" : "#e2e8f0",
+                boxShadow: active
+                  ? `0 0 10px ${color}66`
+                  : "0 2px 6px rgba(0,0,0,0.15)",
+              }),
             }}
           >
-            Div 2 {s}
+            {division.toUpperCase()} {s}
           </button>
-        )
+        );
       })}
     </div>
-  )
+  );
 }
