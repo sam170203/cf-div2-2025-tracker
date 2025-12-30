@@ -5,44 +5,36 @@ from datetime import datetime
 CONTEST_LIST_URL = "https://codeforces.com/api/contest.list"
 PROBLEMSET_URL = "https://codeforces.com/api/problemset.problems"
 
-YEAR = 2025
-OUTPUT_FILE = "../data/2025.json"
+OUTPUT_FILE = "../public/data/div2.json"
 
+LIMIT = {"A": 100, "B": 100, "C": 100, "D": 100}
 
-def get_div2_contests_2025():
+ALLOWED_KEYWORDS = [
+    "div. 2",
+    "rated for div. 2",
+    "div. 1 + div. 2",
+    "global round"
+]
+
+def is_div2_related(name: str) -> bool:
+    n = name.lower()
+    return any(keyword in n for keyword in ALLOWED_KEYWORDS)
+
+def get_contests():
     res = requests.get(CONTEST_LIST_URL).json()
-    contests = []
-
-    for c in res["result"]:
-        if c.get("phase") != "FINISHED":
-            continue
-
-        start = datetime.fromtimestamp(c["startTimeSeconds"])
-        if start.year != YEAR:
-            continue
-
-        name = c["name"].lower()
-        if "div. 2" not in name:
-            continue
-
-        contests.append({
-            "id": c["id"],
-            "name": c["name"]
-        })
-
-    return contests
-
-
-def get_problems():
-    res = requests.get(PROBLEMSET_URL).json()
-    return res["result"]["problems"]
-
+    return [
+        {"id": c["id"], "name": c["name"]}
+        for c in res["result"]
+        if c.get("phase") == "FINISHED" and is_div2_related(c["name"])
+    ]
 
 def main():
-    contests = get_div2_contests_2025()
+    contests = get_contests()
     contest_map = {c["id"]: c["name"] for c in contests}
 
-    problems = get_problems()
+    res = requests.get(PROBLEMSET_URL).json()
+    problems = res["result"]["problems"]
+
     sheet = []
 
     for p in problems:
@@ -51,7 +43,9 @@ def main():
 
         if cid not in contest_map:
             continue
-        if idx not in {"A", "B", "C"}:
+        if idx not in LIMIT:
+            continue
+        if LIMIT[idx] == 0:
             continue
 
         sheet.append({
@@ -65,10 +59,12 @@ def main():
             "url": f"https://codeforces.com/contest/{cid}/problem/{idx}"
         })
 
-    sheet.sort(key=lambda x: (x["rating"] or 9999, x["contestId"], x["index"]))
+        LIMIT[idx] -= 1
+        if all(v == 0 for v in LIMIT.values()):
+            break
 
     output = {
-        "year": YEAR,
+        "division": "Div. 2 Mixed Pool",
         "lastUpdated": datetime.utcnow().strftime("%Y-%m-%d"),
         "problems": sheet
     }
@@ -76,7 +72,8 @@ def main():
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         json.dump(output, f, indent=2)
 
-    print(f"Generated {len(sheet)} problems into data/2025.json")
+    print(f"Saved {len(sheet)} problems to {OUTPUT_FILE}")
+    print("Remaining count:", LIMIT)
 
 
 if __name__ == "__main__":

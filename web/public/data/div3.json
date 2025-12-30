@@ -1,0 +1,3606 @@
+{
+  "category": "Div3",
+  "lastUpdated": "2025-12-30",
+  "problems": [
+    {
+      "id": "1343B",
+      "contestId": 1343,
+      "contestName": "Codeforces Round 636 (Div. 3)",
+      "index": "B",
+      "name": "Balanced Array",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/1343/problem/B"
+    },
+    {
+      "id": "1353A",
+      "contestId": 1353,
+      "contestName": "Codeforces Round 642 (Div. 3)",
+      "index": "A",
+      "name": "Most Unstable Array",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/1353/problem/A"
+    },
+    {
+      "id": "1353B",
+      "contestId": 1353,
+      "contestName": "Codeforces Round 642 (Div. 3)",
+      "index": "B",
+      "name": "Two Arrays And Swaps",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/1353/problem/B"
+    },
+    {
+      "id": "1360A",
+      "contestId": 1360,
+      "contestName": "Codeforces Round 644 (Div. 3)",
+      "index": "A",
+      "name": "Minimal Square",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/1360/problem/A"
+    },
+    {
+      "id": "1360B",
+      "contestId": 1360,
+      "contestName": "Codeforces Round 644 (Div. 3)",
+      "index": "B",
+      "name": "Honest Coach",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/1360/problem/B"
+    },
+    {
+      "id": "1367A",
+      "contestId": 1367,
+      "contestName": "Codeforces Round 650 (Div. 3)",
+      "index": "A",
+      "name": "Short Substrings",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/1367/problem/A"
+    },
+    {
+      "id": "1367B",
+      "contestId": 1367,
+      "contestName": "Codeforces Round 650 (Div. 3)",
+      "index": "B",
+      "name": "Even Array",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/1367/problem/B"
+    },
+    {
+      "id": "1374A",
+      "contestId": 1374,
+      "contestName": "Codeforces Round 653 (Div. 3)",
+      "index": "A",
+      "name": "Required Remainder",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/1374/problem/A"
+    },
+    {
+      "id": "1385A",
+      "contestId": 1385,
+      "contestName": "Codeforces Round 656 (Div. 3)",
+      "index": "A",
+      "name": "Three Pairwise Maximums",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/1385/problem/A"
+    },
+    {
+      "id": "1385B",
+      "contestId": 1385,
+      "contestName": "Codeforces Round 656 (Div. 3)",
+      "index": "B",
+      "name": "Restore the Permutation by Merger",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/1385/problem/B"
+    },
+    {
+      "id": "1399A",
+      "contestId": 1399,
+      "contestName": "Codeforces Round 661 (Div. 3)",
+      "index": "A",
+      "name": "Remove Smallest",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/1399/problem/A"
+    },
+    {
+      "id": "1399B",
+      "contestId": 1399,
+      "contestName": "Codeforces Round 661 (Div. 3)",
+      "index": "B",
+      "name": "Gifts Fixing",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/1399/problem/B"
+    },
+    {
+      "id": "1409A",
+      "contestId": 1409,
+      "contestName": "Codeforces Round 667 (Div. 3)",
+      "index": "A",
+      "name": "Yet Another Two Integers Problem",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/1409/problem/A"
+    },
+    {
+      "id": "1426A",
+      "contestId": 1426,
+      "contestName": "Codeforces Round 674 (Div. 3)",
+      "index": "A",
+      "name": "Floor Number",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/1426/problem/A"
+    },
+    {
+      "id": "1433A",
+      "contestId": 1433,
+      "contestName": "Codeforces Round 677 (Div. 3)",
+      "index": "A",
+      "name": "Boring Apartments",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/1433/problem/A"
+    },
+    {
+      "id": "1433B",
+      "contestId": 1433,
+      "contestName": "Codeforces Round 677 (Div. 3)",
+      "index": "B",
+      "name": "Yet Another Bookshelf",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/1433/problem/B"
+    },
+    {
+      "id": "1454A",
+      "contestId": 1454,
+      "contestName": "Codeforces Round 686 (Div. 3)",
+      "index": "A",
+      "name": "Special Permutation",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/1454/problem/A"
+    },
+    {
+      "id": "1454B",
+      "contestId": 1454,
+      "contestName": "Codeforces Round 686 (Div. 3)",
+      "index": "B",
+      "name": "Unique Bid Auction",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/1454/problem/B"
+    },
+    {
+      "id": "1462A",
+      "contestId": 1462,
+      "contestName": "Codeforces Round 690 (Div. 3)",
+      "index": "A",
+      "name": "Favorite Sequence",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/1462/problem/A"
+    },
+    {
+      "id": "1462B",
+      "contestId": 1462,
+      "contestName": "Codeforces Round 690 (Div. 3)",
+      "index": "B",
+      "name": "Last Year's Substring",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/1462/problem/B"
+    },
+    {
+      "id": "1472A",
+      "contestId": 1472,
+      "contestName": "Codeforces Round 693 (Div. 3)",
+      "index": "A",
+      "name": "Cards for Friends",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/1472/problem/A"
+    },
+    {
+      "id": "1472B",
+      "contestId": 1472,
+      "contestName": "Codeforces Round 693 (Div. 3)",
+      "index": "B",
+      "name": "Fair Division",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/1472/problem/B"
+    },
+    {
+      "id": "1490A",
+      "contestId": 1490,
+      "contestName": "Codeforces Round 702 (Div. 3)",
+      "index": "A",
+      "name": "Dense Array",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/1490/problem/A"
+    },
+    {
+      "id": "1506A",
+      "contestId": 1506,
+      "contestName": "Codeforces Round 710 (Div. 3)",
+      "index": "A",
+      "name": "Strange Table",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/1506/problem/A"
+    },
+    {
+      "id": "1512A",
+      "contestId": 1512,
+      "contestName": "Codeforces Round 713 (Div. 3)",
+      "index": "A",
+      "name": "Spy Detected!",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/1512/problem/A"
+    },
+    {
+      "id": "1512B",
+      "contestId": 1512,
+      "contestName": "Codeforces Round 713 (Div. 3)",
+      "index": "B",
+      "name": "Almost Rectangle",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/1512/problem/B"
+    },
+    {
+      "id": "1520A",
+      "contestId": 1520,
+      "contestName": "Codeforces Round 719 (Div. 3)",
+      "index": "A",
+      "name": "Do Not Be Distracted!",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/1520/problem/A"
+    },
+    {
+      "id": "1520B",
+      "contestId": 1520,
+      "contestName": "Codeforces Round 719 (Div. 3)",
+      "index": "B",
+      "name": "Ordinary Numbers",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/1520/problem/B"
+    },
+    {
+      "id": "1538A",
+      "contestId": 1538,
+      "contestName": "Codeforces Round 725 (Div. 3)",
+      "index": "A",
+      "name": "Stone Game",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/1538/problem/A"
+    },
+    {
+      "id": "1538B",
+      "contestId": 1538,
+      "contestName": "Codeforces Round 725 (Div. 3)",
+      "index": "B",
+      "name": "Friends and Candies",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/1538/problem/B"
+    },
+    {
+      "id": "1547A",
+      "contestId": 1547,
+      "contestName": "Codeforces Round 731 (Div. 3)",
+      "index": "A",
+      "name": "Shortest Path with Obstacle",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/1547/problem/A"
+    },
+    {
+      "id": "1547B",
+      "contestId": 1547,
+      "contestName": "Codeforces Round 731 (Div. 3)",
+      "index": "B",
+      "name": "Alphabetical Strings",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/1547/problem/B"
+    },
+    {
+      "id": "1551A",
+      "contestId": 1551,
+      "contestName": "Codeforces Round 734 (Div. 3)",
+      "index": "A",
+      "name": "Polycarp and Coins",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/1551/problem/A"
+    },
+    {
+      "id": "1560A",
+      "contestId": 1560,
+      "contestName": "Codeforces Round 739 (Div. 3)",
+      "index": "A",
+      "name": "Dislike of Threes",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/1560/problem/A"
+    },
+    {
+      "id": "1560B",
+      "contestId": 1560,
+      "contestName": "Codeforces Round 739 (Div. 3)",
+      "index": "B",
+      "name": "Who's Opposite?",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/1560/problem/B"
+    },
+    {
+      "id": "1560C",
+      "contestId": 1560,
+      "contestName": "Codeforces Round 739 (Div. 3)",
+      "index": "C",
+      "name": "Infinity Table",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/1560/problem/C"
+    },
+    {
+      "id": "1579A",
+      "contestId": 1579,
+      "contestName": "Codeforces Round 744 (Div. 3)",
+      "index": "A",
+      "name": "Casimir's String Solitaire",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/1579/problem/A"
+    },
+    {
+      "id": "1593A",
+      "contestId": 1593,
+      "contestName": "Codeforces Round 748 (Div. 3)",
+      "index": "A",
+      "name": "Elections",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/1593/problem/A"
+    },
+    {
+      "id": "1607A",
+      "contestId": 1607,
+      "contestName": "Codeforces Round 753 (Div. 3)",
+      "index": "A",
+      "name": "Linear Keyboard",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/1607/problem/A"
+    },
+    {
+      "id": "1611A",
+      "contestId": 1611,
+      "contestName": "Codeforces Round 756 (Div. 3)",
+      "index": "A",
+      "name": "Make Even",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/1611/problem/A"
+    },
+    {
+      "id": "1611B",
+      "contestId": 1611,
+      "contestName": "Codeforces Round 756 (Div. 3)",
+      "index": "B",
+      "name": "Team Composition: Programmers and Mathematicians",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/1611/problem/B"
+    },
+    {
+      "id": "1618A",
+      "contestId": 1618,
+      "contestName": "Codeforces Round 760 (Div. 3)",
+      "index": "A",
+      "name": "Polycarp and Sums of Subsequences",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/1618/problem/A"
+    },
+    {
+      "id": "1618B",
+      "contestId": 1618,
+      "contestName": "Codeforces Round 760 (Div. 3)",
+      "index": "B",
+      "name": "Missing Bigram",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/1618/problem/B"
+    },
+    {
+      "id": "1619A",
+      "contestId": 1619,
+      "contestName": "Codeforces Round 762 (Div. 3)",
+      "index": "A",
+      "name": "Square String?",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/1619/problem/A"
+    },
+    {
+      "id": "1619B",
+      "contestId": 1619,
+      "contestName": "Codeforces Round 762 (Div. 3)",
+      "index": "B",
+      "name": "Squares and Cubes",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/1619/problem/B"
+    },
+    {
+      "id": "1624A",
+      "contestId": 1624,
+      "contestName": "Codeforces Round 764 (Div. 3)",
+      "index": "A",
+      "name": "Plus One on the Subset",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/1624/problem/A"
+    },
+    {
+      "id": "1650A",
+      "contestId": 1650,
+      "contestName": "Codeforces Round 776 (Div. 3)",
+      "index": "A",
+      "name": "Deletions of Two Adjacent Letters",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/1650/problem/A"
+    },
+    {
+      "id": "1660A",
+      "contestId": 1660,
+      "contestName": "Codeforces Round 780 (Div. 3)",
+      "index": "A",
+      "name": "Vasya and Coins",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/1660/problem/A"
+    },
+    {
+      "id": "1660B",
+      "contestId": 1660,
+      "contestName": "Codeforces Round 780 (Div. 3)",
+      "index": "B",
+      "name": "Vlad and Candies",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/1660/problem/B"
+    },
+    {
+      "id": "1674A",
+      "contestId": 1674,
+      "contestName": "Codeforces Round 786 (Div. 3)",
+      "index": "A",
+      "name": "Number Transformation",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/1674/problem/A"
+    },
+    {
+      "id": "1674B",
+      "contestId": 1674,
+      "contestName": "Codeforces Round 786 (Div. 3)",
+      "index": "B",
+      "name": "Dictionary",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/1674/problem/B"
+    },
+    {
+      "id": "1675A",
+      "contestId": 1675,
+      "contestName": "Codeforces Round 787 (Div. 3)",
+      "index": "A",
+      "name": "Food for Animals",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/1675/problem/A"
+    },
+    {
+      "id": "1690A",
+      "contestId": 1690,
+      "contestName": "Codeforces Round 797 (Div. 3)",
+      "index": "A",
+      "name": "Print a Pedestal (Codeforces logo?)",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/1690/problem/A"
+    },
+    {
+      "id": "1690B",
+      "contestId": 1690,
+      "contestName": "Codeforces Round 797 (Div. 3)",
+      "index": "B",
+      "name": "Array Decrements",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/1690/problem/B"
+    },
+    {
+      "id": "1690C",
+      "contestId": 1690,
+      "contestName": "Codeforces Round 797 (Div. 3)",
+      "index": "C",
+      "name": "Restoring the Duration of Tasks",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/1690/problem/C"
+    },
+    {
+      "id": "1702A",
+      "contestId": 1702,
+      "contestName": "Codeforces Round 805 (Div. 3)",
+      "index": "A",
+      "name": "Round Down the Price",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/1702/problem/A"
+    },
+    {
+      "id": "1702B",
+      "contestId": 1702,
+      "contestName": "Codeforces Round 805 (Div. 3)",
+      "index": "B",
+      "name": "Polycarp Writes a String from Memory",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/1702/problem/B"
+    },
+    {
+      "id": "1714B",
+      "contestId": 1714,
+      "contestName": "Codeforces Round 811 (Div. 3)",
+      "index": "B",
+      "name": "Remove Prefix",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/1714/problem/B"
+    },
+    {
+      "id": "1714C",
+      "contestId": 1714,
+      "contestName": "Codeforces Round 811 (Div. 3)",
+      "index": "C",
+      "name": "Minimum  Varied Number",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/1714/problem/C"
+    },
+    {
+      "id": "1729A",
+      "contestId": 1729,
+      "contestName": "Codeforces Round 820 (Div. 3)",
+      "index": "A",
+      "name": "Two Elevators",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/1729/problem/A"
+    },
+    {
+      "id": "1729B",
+      "contestId": 1729,
+      "contestName": "Codeforces Round 820 (Div. 3)",
+      "index": "B",
+      "name": "Decode String",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/1729/problem/B"
+    },
+    {
+      "id": "1741A",
+      "contestId": 1741,
+      "contestName": "Codeforces Round 826 (Div. 3)",
+      "index": "A",
+      "name": "Compare T-Shirt Sizes",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/1741/problem/A"
+    },
+    {
+      "id": "1741B",
+      "contestId": 1741,
+      "contestName": "Codeforces Round 826 (Div. 3)",
+      "index": "B",
+      "name": "Funny Permutation",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/1741/problem/B"
+    },
+    {
+      "id": "1744A",
+      "contestId": 1744,
+      "contestName": "Codeforces Round  828 (Div. 3)",
+      "index": "A",
+      "name": "Number Replacement",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/1744/problem/A"
+    },
+    {
+      "id": "1744B",
+      "contestId": 1744,
+      "contestName": "Codeforces Round  828 (Div. 3)",
+      "index": "B",
+      "name": "Even-Odd Increments ",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/1744/problem/B"
+    },
+    {
+      "id": "1759A",
+      "contestId": 1759,
+      "contestName": "Codeforces Round  834 (Div. 3)",
+      "index": "A",
+      "name": "Yes-Yes?",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/1759/problem/A"
+    },
+    {
+      "id": "1759B",
+      "contestId": 1759,
+      "contestName": "Codeforces Round  834 (Div. 3)",
+      "index": "B",
+      "name": "Lost Permutation",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/1759/problem/B"
+    },
+    {
+      "id": "1772A",
+      "contestId": 1772,
+      "contestName": "Codeforces Round 839 (Div. 3)",
+      "index": "A",
+      "name": "A+B?",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/1772/problem/A"
+    },
+    {
+      "id": "1772B",
+      "contestId": 1772,
+      "contestName": "Codeforces Round 839 (Div. 3)",
+      "index": "B",
+      "name": "Matrix Rotation",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/1772/problem/B"
+    },
+    {
+      "id": "1790A",
+      "contestId": 1790,
+      "contestName": "Codeforces Round 847 (Div. 3)",
+      "index": "A",
+      "name": "Polycarp and the Day of Pi",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/1790/problem/A"
+    },
+    {
+      "id": "1790B",
+      "contestId": 1790,
+      "contestName": "Codeforces Round 847 (Div. 3)",
+      "index": "B",
+      "name": "Taisia and Dice",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/1790/problem/B"
+    },
+    {
+      "id": "1800A",
+      "contestId": 1800,
+      "contestName": "Codeforces Round 855 (Div. 3)",
+      "index": "A",
+      "name": "Is It a Cat?",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/1800/problem/A"
+    },
+    {
+      "id": "1811A",
+      "contestId": 1811,
+      "contestName": "Codeforces Round 863 (Div. 3)",
+      "index": "A",
+      "name": "Insert Digit",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/1811/problem/A"
+    },
+    {
+      "id": "1822A",
+      "contestId": 1822,
+      "contestName": "Codeforces Round 867 (Div. 3)",
+      "index": "A",
+      "name": "TubeTube Feed",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/1822/problem/A"
+    },
+    {
+      "id": "1822B",
+      "contestId": 1822,
+      "contestName": "Codeforces Round 867 (Div. 3)",
+      "index": "B",
+      "name": "Karina and Array",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/1822/problem/B"
+    },
+    {
+      "id": "1822C",
+      "contestId": 1822,
+      "contestName": "Codeforces Round 867 (Div. 3)",
+      "index": "C",
+      "name": "Bun Lover",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/1822/problem/C"
+    },
+    {
+      "id": "1833A",
+      "contestId": 1833,
+      "contestName": "Codeforces Round 874 (Div. 3)",
+      "index": "A",
+      "name": "Musical Puzzle",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/1833/problem/A"
+    },
+    {
+      "id": "1833C",
+      "contestId": 1833,
+      "contestName": "Codeforces Round 874 (Div. 3)",
+      "index": "C",
+      "name": "Vlad Building Beautiful Array",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/1833/problem/C"
+    },
+    {
+      "id": "1840A",
+      "contestId": 1840,
+      "contestName": "Codeforces Round 878 (Div. 3)",
+      "index": "A",
+      "name": "Cipher Shifer",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/1840/problem/A"
+    },
+    {
+      "id": "1843A",
+      "contestId": 1843,
+      "contestName": "Codeforces Round 881 (Div. 3)",
+      "index": "A",
+      "name": "Sasha and Array Coloring",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/1843/problem/A"
+    },
+    {
+      "id": "1843B",
+      "contestId": 1843,
+      "contestName": "Codeforces Round 881 (Div. 3)",
+      "index": "B",
+      "name": "Long Long",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/1843/problem/B"
+    },
+    {
+      "id": "1843C",
+      "contestId": 1843,
+      "contestName": "Codeforces Round 881 (Div. 3)",
+      "index": "C",
+      "name": "Sum in Binary Tree",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/1843/problem/C"
+    },
+    {
+      "id": "1846A",
+      "contestId": 1846,
+      "contestName": "Codeforces Round 883 (Div. 3)",
+      "index": "A",
+      "name": "Rudolph and Cut the Rope ",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/1846/problem/A"
+    },
+    {
+      "id": "1846B",
+      "contestId": 1846,
+      "contestName": "Codeforces Round 883 (Div. 3)",
+      "index": "B",
+      "name": "Rudolph and Tic-Tac-Toe",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/1846/problem/B"
+    },
+    {
+      "id": "1851A",
+      "contestId": 1851,
+      "contestName": "Codeforces Round 888 (Div. 3)",
+      "index": "A",
+      "name": "Escalator Conversations",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/1851/problem/A"
+    },
+    {
+      "id": "1851B",
+      "contestId": 1851,
+      "contestName": "Codeforces Round 888 (Div. 3)",
+      "index": "B",
+      "name": "Parity Sort",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/1851/problem/B"
+    },
+    {
+      "id": "1857A",
+      "contestId": 1857,
+      "contestName": "Codeforces Round 891 (Div. 3)",
+      "index": "A",
+      "name": "Array Coloring",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/1857/problem/A"
+    },
+    {
+      "id": "1862A",
+      "contestId": 1862,
+      "contestName": "Codeforces Round 894 (Div. 3)",
+      "index": "A",
+      "name": "Gift Carpet",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/1862/problem/A"
+    },
+    {
+      "id": "1862B",
+      "contestId": 1862,
+      "contestName": "Codeforces Round 894 (Div. 3)",
+      "index": "B",
+      "name": "Sequence Game",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/1862/problem/B"
+    },
+    {
+      "id": "1872A",
+      "contestId": 1872,
+      "contestName": "Codeforces Round 895 (Div. 3)",
+      "index": "A",
+      "name": "Two Vessels",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/1872/problem/A"
+    },
+    {
+      "id": "1878A",
+      "contestId": 1878,
+      "contestName": "Codeforces Round 900 (Div. 3)",
+      "index": "A",
+      "name": "How Much Does Daytona Cost?",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/1878/problem/A"
+    },
+    {
+      "id": "1878B",
+      "contestId": 1878,
+      "contestName": "Codeforces Round 900 (Div. 3)",
+      "index": "B",
+      "name": "Aleksa and Stack",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/1878/problem/B"
+    },
+    {
+      "id": "1881A",
+      "contestId": 1881,
+      "contestName": "Codeforces Round 903 (Div. 3)",
+      "index": "A",
+      "name": "Don't Try to Count",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/1881/problem/A"
+    },
+    {
+      "id": "1883A",
+      "contestId": 1883,
+      "contestName": "Codeforces Round 905 (Div. 3)",
+      "index": "A",
+      "name": "Morning",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/1883/problem/A"
+    },
+    {
+      "id": "1899A",
+      "contestId": 1899,
+      "contestName": "Codeforces Round 909 (Div. 3)",
+      "index": "A",
+      "name": "Game with Integers",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/1899/problem/A"
+    },
+    {
+      "id": "1907A",
+      "contestId": 1907,
+      "contestName": "Codeforces Round 913 (Div. 3)",
+      "index": "A",
+      "name": "Rook",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/1907/problem/A"
+    },
+    {
+      "id": "1914A",
+      "contestId": 1914,
+      "contestName": "Codeforces Round 916 (Div. 3)",
+      "index": "A",
+      "name": "Problemsolving Log",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/1914/problem/A"
+    },
+    {
+      "id": "1914B",
+      "contestId": 1914,
+      "contestName": "Codeforces Round 916 (Div. 3)",
+      "index": "B",
+      "name": "Preparing for the Contest",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/1914/problem/B"
+    },
+    {
+      "id": "1921A",
+      "contestId": 1921,
+      "contestName": "Codeforces Round 920 (Div. 3)",
+      "index": "A",
+      "name": "Square",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/1921/problem/A"
+    },
+    {
+      "id": "1921B",
+      "contestId": 1921,
+      "contestName": "Codeforces Round 920 (Div. 3)",
+      "index": "B",
+      "name": "Arranging Cats",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/1921/problem/B"
+    },
+    {
+      "id": "1927A",
+      "contestId": 1927,
+      "contestName": "Codeforces Round 923 (Div. 3)",
+      "index": "A",
+      "name": "Make it White",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/1927/problem/A"
+    },
+    {
+      "id": "1931A",
+      "contestId": 1931,
+      "contestName": "Codeforces Round 925 (Div. 3)",
+      "index": "A",
+      "name": "Recovering a Small String",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/1931/problem/A"
+    },
+    {
+      "id": "1931B",
+      "contestId": 1931,
+      "contestName": "Codeforces Round 925 (Div. 3)",
+      "index": "B",
+      "name": "Make Equal",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/1931/problem/B"
+    },
+    {
+      "id": "1932A",
+      "contestId": 1932,
+      "contestName": "Codeforces Round 927 (Div. 3)",
+      "index": "A",
+      "name": "Thorns and Coins",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/1932/problem/A"
+    },
+    {
+      "id": "1933A",
+      "contestId": 1933,
+      "contestName": "Codeforces Round 929 (Div. 3)",
+      "index": "A",
+      "name": "Turtle Puzzle: Rearrange and Negate",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/1933/problem/A"
+    },
+    {
+      "id": "1933B",
+      "contestId": 1933,
+      "contestName": "Codeforces Round 929 (Div. 3)",
+      "index": "B",
+      "name": "Turtle Math: Fast Three Task",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/1933/problem/B"
+    },
+    {
+      "id": "1941A",
+      "contestId": 1941,
+      "contestName": "Codeforces Round 933 (Div. 3)",
+      "index": "A",
+      "name": "Rudolf and the Ticket",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/1941/problem/A"
+    },
+    {
+      "id": "1945A",
+      "contestId": 1945,
+      "contestName": "Codeforces Round 935 (Div. 3)",
+      "index": "A",
+      "name": "Setting up Camp",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/1945/problem/A"
+    },
+    {
+      "id": "1955A",
+      "contestId": 1955,
+      "contestName": "Codeforces Round 938 (Div. 3)",
+      "index": "A",
+      "name": "Yogurt Sale",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/1955/problem/A"
+    },
+    {
+      "id": "1968A",
+      "contestId": 1968,
+      "contestName": "Codeforces Round 943 (Div. 3)",
+      "index": "A",
+      "name": "Maximize?",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/1968/problem/A"
+    },
+    {
+      "id": "1968B",
+      "contestId": 1968,
+      "contestName": "Codeforces Round 943 (Div. 3)",
+      "index": "B",
+      "name": "Prefiquence",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/1968/problem/B"
+    },
+    {
+      "id": "1974A",
+      "contestId": 1974,
+      "contestName": "Codeforces Round 946 (Div. 3)",
+      "index": "A",
+      "name": "Phone Desktop",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/1974/problem/A"
+    },
+    {
+      "id": "1974B",
+      "contestId": 1974,
+      "contestName": "Codeforces Round 946 (Div. 3)",
+      "index": "B",
+      "name": "Symmetric Encoding",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/1974/problem/B"
+    },
+    {
+      "id": "1980A",
+      "contestId": 1980,
+      "contestName": "Codeforces Round 950 (Div. 3)",
+      "index": "A",
+      "name": "Problem Generator",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/1980/problem/A"
+    },
+    {
+      "id": "1980B",
+      "contestId": 1980,
+      "contestName": "Codeforces Round 950 (Div. 3)",
+      "index": "B",
+      "name": "Choosing Cubes",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/1980/problem/B"
+    },
+    {
+      "id": "1986A",
+      "contestId": 1986,
+      "contestName": "Codeforces Round 954 (Div. 3)",
+      "index": "A",
+      "name": "X Axis",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/1986/problem/A"
+    },
+    {
+      "id": "1992A",
+      "contestId": 1992,
+      "contestName": "Codeforces Round 957 (Div. 3)",
+      "index": "A",
+      "name": "Only Pluses",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/1992/problem/A"
+    },
+    {
+      "id": "1992B",
+      "contestId": 1992,
+      "contestName": "Codeforces Round 957 (Div. 3)",
+      "index": "B",
+      "name": "Angry Monk",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/1992/problem/B"
+    },
+    {
+      "id": "1996A",
+      "contestId": 1996,
+      "contestName": "Codeforces Round 962 (Div. 3)",
+      "index": "A",
+      "name": "Legs",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/1996/problem/A"
+    },
+    {
+      "id": "1996B",
+      "contestId": 1996,
+      "contestName": "Codeforces Round 962 (Div. 3)",
+      "index": "B",
+      "name": "Scale",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/1996/problem/B"
+    },
+    {
+      "id": "2000A",
+      "contestId": 2000,
+      "contestName": "Codeforces Round 966 (Div. 3)",
+      "index": "A",
+      "name": "Primary Task",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/2000/problem/A"
+    },
+    {
+      "id": "2000B",
+      "contestId": 2000,
+      "contestName": "Codeforces Round 966 (Div. 3)",
+      "index": "B",
+      "name": "Seating in a Bus",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/2000/problem/B"
+    },
+    {
+      "id": "2008A",
+      "contestId": 2008,
+      "contestName": "Codeforces Round 970 (Div. 3)",
+      "index": "A",
+      "name": "Sakurako's Exam",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/2008/problem/A"
+    },
+    {
+      "id": "2008B",
+      "contestId": 2008,
+      "contestName": "Codeforces Round 970 (Div. 3)",
+      "index": "B",
+      "name": "Square or Not",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/2008/problem/B"
+    },
+    {
+      "id": "2008C",
+      "contestId": 2008,
+      "contestName": "Codeforces Round 970 (Div. 3)",
+      "index": "C",
+      "name": "Longest Good Array",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/2008/problem/C"
+    },
+    {
+      "id": "2010A",
+      "contestId": 2010,
+      "contestName": "Testing Round 19 (Div. 3)",
+      "index": "A",
+      "name": "Alternating Sum of Numbers",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/2010/problem/A"
+    },
+    {
+      "id": "2010B",
+      "contestId": 2010,
+      "contestName": "Testing Round 19 (Div. 3)",
+      "index": "B",
+      "name": "Three Brothers",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/2010/problem/B"
+    },
+    {
+      "id": "2014A",
+      "contestId": 2014,
+      "contestName": "Codeforces Round 974 (Div. 3)",
+      "index": "A",
+      "name": "Robin Helps",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/2014/problem/A"
+    },
+    {
+      "id": "2014B",
+      "contestId": 2014,
+      "contestName": "Codeforces Round 974 (Div. 3)",
+      "index": "B",
+      "name": "Robin Hood and the Major Oak",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/2014/problem/B"
+    },
+    {
+      "id": "2033A",
+      "contestId": 2033,
+      "contestName": "Codeforces Round 981 (Div. 3)",
+      "index": "A",
+      "name": "Sakurako and Kosuke",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/2033/problem/A"
+    },
+    {
+      "id": "2036A",
+      "contestId": 2036,
+      "contestName": "Codeforces Round 984 (Div. 3)",
+      "index": "A",
+      "name": "Quintomania",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/2036/problem/A"
+    },
+    {
+      "id": "2036B",
+      "contestId": 2036,
+      "contestName": "Codeforces Round 984 (Div. 3)",
+      "index": "B",
+      "name": "Startup",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/2036/problem/B"
+    },
+    {
+      "id": "2037A",
+      "contestId": 2037,
+      "contestName": "Codeforces Round 988 (Div. 3)",
+      "index": "A",
+      "name": "Twice",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/2037/problem/A"
+    },
+    {
+      "id": "2037B",
+      "contestId": 2037,
+      "contestName": "Codeforces Round 988 (Div. 3)",
+      "index": "B",
+      "name": "Intercepted Inputs",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/2037/problem/B"
+    },
+    {
+      "id": "2050A",
+      "contestId": 2050,
+      "contestName": "Codeforces Round 991 (Div. 3)",
+      "index": "A",
+      "name": "Line Breaks",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/2050/problem/A"
+    },
+    {
+      "id": "2051A",
+      "contestId": 2051,
+      "contestName": "Codeforces Round 995 (Div. 3)",
+      "index": "A",
+      "name": "Preparing for the Olympiad",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/2051/problem/A"
+    },
+    {
+      "id": "2051B",
+      "contestId": 2051,
+      "contestName": "Codeforces Round 995 (Div. 3)",
+      "index": "B",
+      "name": "Journey",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/2051/problem/B"
+    },
+    {
+      "id": "2060A",
+      "contestId": 2060,
+      "contestName": "Codeforces Round 998 (Div. 3)",
+      "index": "A",
+      "name": "Fibonacciness",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/2060/problem/A"
+    },
+    {
+      "id": "2072A",
+      "contestId": 2072,
+      "contestName": "Codeforces Round 1006 (Div. 3)",
+      "index": "A",
+      "name": "New World, New Me, New Array",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/2072/problem/A"
+    },
+    {
+      "id": "2074A",
+      "contestId": 2074,
+      "contestName": "Codeforces Round 1009 (Div. 3)",
+      "index": "A",
+      "name": "Draw a Square",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/2074/problem/A"
+    },
+    {
+      "id": "2074B",
+      "contestId": 2074,
+      "contestName": "Codeforces Round 1009 (Div. 3)",
+      "index": "B",
+      "name": "The Third Side",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/2074/problem/B"
+    },
+    {
+      "id": "2091A",
+      "contestId": 2091,
+      "contestName": "Codeforces Round 1013 (Div. 3)",
+      "index": "A",
+      "name": "Olympiad Date",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/2091/problem/A"
+    },
+    {
+      "id": "2091B",
+      "contestId": 2091,
+      "contestName": "Codeforces Round 1013 (Div. 3)",
+      "index": "B",
+      "name": "Team Training",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/2091/problem/B"
+    },
+    {
+      "id": "2093A",
+      "contestId": 2093,
+      "contestName": "Codeforces Round 1016 (Div. 3)",
+      "index": "A",
+      "name": "Ideal Generator",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/2093/problem/A"
+    },
+    {
+      "id": "2106A",
+      "contestId": 2106,
+      "contestName": "Codeforces Round 1020 (Div. 3)",
+      "index": "A",
+      "name": "Dr. TC",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/2106/problem/A"
+    },
+    {
+      "id": "2114A",
+      "contestId": 2114,
+      "contestName": "Codeforces Round 1027 (Div. 3)",
+      "index": "A",
+      "name": "Square Year",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/2114/problem/A"
+    },
+    {
+      "id": "2117A",
+      "contestId": 2117,
+      "contestName": "Codeforces Round 1029 (Div. 3)",
+      "index": "A",
+      "name": "False Alarm",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/2117/problem/A"
+    },
+    {
+      "id": "2117B",
+      "contestId": 2117,
+      "contestName": "Codeforces Round 1029 (Div. 3)",
+      "index": "B",
+      "name": "Shrink",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/2117/problem/B"
+    },
+    {
+      "id": "2121A",
+      "contestId": 2121,
+      "contestName": "Codeforces Round 1032 (Div. 3)",
+      "index": "A",
+      "name": "Letter Home",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/2121/problem/A"
+    },
+    {
+      "id": "2121B",
+      "contestId": 2121,
+      "contestName": "Codeforces Round 1032 (Div. 3)",
+      "index": "B",
+      "name": "Above the Clouds",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/2121/problem/B"
+    },
+    {
+      "id": "2123A",
+      "contestId": 2123,
+      "contestName": "Codeforces Round 1034 (Div. 3)",
+      "index": "A",
+      "name": "Blackboard Game",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/2123/problem/A"
+    },
+    {
+      "id": "2123B",
+      "contestId": 2123,
+      "contestName": "Codeforces Round 1034 (Div. 3)",
+      "index": "B",
+      "name": "Tournament",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/2123/problem/B"
+    },
+    {
+      "id": "2126A",
+      "contestId": 2126,
+      "contestName": "Codeforces Round 1037 (Div. 3)",
+      "index": "A",
+      "name": "Only One Digit",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/2126/problem/A"
+    },
+    {
+      "id": "2126B",
+      "contestId": 2126,
+      "contestName": "Codeforces Round 1037 (Div. 3)",
+      "index": "B",
+      "name": "No Casino in the Mountains",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/2126/problem/B"
+    },
+    {
+      "id": "2131A",
+      "contestId": 2131,
+      "contestName": "Codeforces Round 1042 (Div. 3)",
+      "index": "A",
+      "name": "Lever",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/2131/problem/A"
+    },
+    {
+      "id": "2131B",
+      "contestId": 2131,
+      "contestName": "Codeforces Round 1042 (Div. 3)",
+      "index": "B",
+      "name": "Alternating Series",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/2131/problem/B"
+    },
+    {
+      "id": "2132A",
+      "contestId": 2132,
+      "contestName": "Codeforces Round 1043 (Div. 3)",
+      "index": "A",
+      "name": "Homework",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/2132/problem/A"
+    },
+    {
+      "id": "2137A",
+      "contestId": 2137,
+      "contestName": "Codeforces Round 1047 (Div. 3)",
+      "index": "A",
+      "name": "Collatz Conjecture",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/2137/problem/A"
+    },
+    {
+      "id": "2149A",
+      "contestId": 2149,
+      "contestName": "Codeforces Round 1054 (Div. 3)",
+      "index": "A",
+      "name": "Be Positive",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/2149/problem/A"
+    },
+    {
+      "id": "2149B",
+      "contestId": 2149,
+      "contestName": "Codeforces Round 1054 (Div. 3)",
+      "index": "B",
+      "name": "Unconventional Pairs",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/2149/problem/B"
+    },
+    {
+      "id": "2162A",
+      "contestId": 2162,
+      "contestName": "Codeforces Round 1059 (Div. 3)",
+      "index": "A",
+      "name": "Beautiful Average",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/2162/problem/A"
+    },
+    {
+      "id": "2171A",
+      "contestId": 2171,
+      "contestName": "Codeforces Round 1065 (Div. 3)",
+      "index": "A",
+      "name": "Shizuku Hoshikawa and Farm Legs",
+      "rating": 800,
+      "url": "https://codeforces.com/contest/2171/problem/A"
+    },
+    {
+      "id": "1335B",
+      "contestId": 1335,
+      "contestName": "Codeforces Round 634 (Div. 3)",
+      "index": "B",
+      "name": "Construct the String",
+      "rating": 900,
+      "url": "https://codeforces.com/contest/1335/problem/B"
+    },
+    {
+      "id": "1343A",
+      "contestId": 1343,
+      "contestName": "Codeforces Round 636 (Div. 3)",
+      "index": "A",
+      "name": "Candies",
+      "rating": 900,
+      "url": "https://codeforces.com/contest/1343/problem/A"
+    },
+    {
+      "id": "1374B",
+      "contestId": 1374,
+      "contestName": "Codeforces Round 653 (Div. 3)",
+      "index": "B",
+      "name": "Multiply by 2, divide by 6",
+      "rating": 900,
+      "url": "https://codeforces.com/contest/1374/problem/B"
+    },
+    {
+      "id": "1426B",
+      "contestId": 1426,
+      "contestName": "Codeforces Round 674 (Div. 3)",
+      "index": "B",
+      "name": "Symmetric Matrix",
+      "rating": 900,
+      "url": "https://codeforces.com/contest/1426/problem/B"
+    },
+    {
+      "id": "1433C",
+      "contestId": 1433,
+      "contestName": "Codeforces Round 677 (Div. 3)",
+      "index": "C",
+      "name": "Dominant Piranha",
+      "rating": 900,
+      "url": "https://codeforces.com/contest/1433/problem/C"
+    },
+    {
+      "id": "1462C",
+      "contestId": 1462,
+      "contestName": "Codeforces Round 690 (Div. 3)",
+      "index": "C",
+      "name": "Unique Number",
+      "rating": 900,
+      "url": "https://codeforces.com/contest/1462/problem/C"
+    },
+    {
+      "id": "1475A",
+      "contestId": 1475,
+      "contestName": "Codeforces Round 697 (Div. 3)",
+      "index": "A",
+      "name": "Odd Divisor",
+      "rating": 900,
+      "url": "https://codeforces.com/contest/1475/problem/A"
+    },
+    {
+      "id": "1475B",
+      "contestId": 1475,
+      "contestName": "Codeforces Round 697 (Div. 3)",
+      "index": "B",
+      "name": "New Year's Number",
+      "rating": 900,
+      "url": "https://codeforces.com/contest/1475/problem/B"
+    },
+    {
+      "id": "1593B",
+      "contestId": 1593,
+      "contestName": "Codeforces Round 748 (Div. 3)",
+      "index": "B",
+      "name": "Make it Divisible by 25",
+      "rating": 900,
+      "url": "https://codeforces.com/contest/1593/problem/B"
+    },
+    {
+      "id": "1607B",
+      "contestId": 1607,
+      "contestName": "Codeforces Round 753 (Div. 3)",
+      "index": "B",
+      "name": "Odd Grasshopper",
+      "rating": 900,
+      "url": "https://codeforces.com/contest/1607/problem/B"
+    },
+    {
+      "id": "1624B",
+      "contestId": 1624,
+      "contestName": "Codeforces Round 764 (Div. 3)",
+      "index": "B",
+      "name": "Make AP",
+      "rating": 900,
+      "url": "https://codeforces.com/contest/1624/problem/B"
+    },
+    {
+      "id": "1650B",
+      "contestId": 1650,
+      "contestName": "Codeforces Round 776 (Div. 3)",
+      "index": "B",
+      "name": "DIV + MOD",
+      "rating": 900,
+      "url": "https://codeforces.com/contest/1650/problem/B"
+    },
+    {
+      "id": "1675B",
+      "contestId": 1675,
+      "contestName": "Codeforces Round 787 (Div. 3)",
+      "index": "B",
+      "name": "Make It Increasing",
+      "rating": 900,
+      "url": "https://codeforces.com/contest/1675/problem/B"
+    },
+    {
+      "id": "1714A",
+      "contestId": 1714,
+      "contestName": "Codeforces Round 811 (Div. 3)",
+      "index": "A",
+      "name": "Everyone Loves to Sleep",
+      "rating": 900,
+      "url": "https://codeforces.com/contest/1714/problem/A"
+    },
+    {
+      "id": "1833B",
+      "contestId": 1833,
+      "contestName": "Codeforces Round 874 (Div. 3)",
+      "index": "B",
+      "name": "Restore the Weather",
+      "rating": 900,
+      "url": "https://codeforces.com/contest/1833/problem/B"
+    },
+    {
+      "id": "1872B",
+      "contestId": 1872,
+      "contestName": "Codeforces Round 895 (Div. 3)",
+      "index": "B",
+      "name": "The Corridor or There and Back Again",
+      "rating": 900,
+      "url": "https://codeforces.com/contest/1872/problem/B"
+    },
+    {
+      "id": "1878C",
+      "contestId": 1878,
+      "contestName": "Codeforces Round 900 (Div. 3)",
+      "index": "C",
+      "name": "Vasilije in Cacak",
+      "rating": 900,
+      "url": "https://codeforces.com/contest/1878/problem/C"
+    },
+    {
+      "id": "1881B",
+      "contestId": 1881,
+      "contestName": "Codeforces Round 903 (Div. 3)",
+      "index": "B",
+      "name": "Three Threadlets",
+      "rating": 900,
+      "url": "https://codeforces.com/contest/1881/problem/B"
+    },
+    {
+      "id": "1883B",
+      "contestId": 1883,
+      "contestName": "Codeforces Round 905 (Div. 3)",
+      "index": "B",
+      "name": "Chemistry",
+      "rating": 900,
+      "url": "https://codeforces.com/contest/1883/problem/B"
+    },
+    {
+      "id": "1921C",
+      "contestId": 1921,
+      "contestName": "Codeforces Round 920 (Div. 3)",
+      "index": "C",
+      "name": "Sending Messages",
+      "rating": 900,
+      "url": "https://codeforces.com/contest/1921/problem/C"
+    },
+    {
+      "id": "1927B",
+      "contestId": 1927,
+      "contestName": "Codeforces Round 923 (Div. 3)",
+      "index": "B",
+      "name": "Following the String",
+      "rating": 900,
+      "url": "https://codeforces.com/contest/1927/problem/B"
+    },
+    {
+      "id": "1941C",
+      "contestId": 1941,
+      "contestName": "Codeforces Round 933 (Div. 3)",
+      "index": "C",
+      "name": "Rudolf and the Ugly String",
+      "rating": 900,
+      "url": "https://codeforces.com/contest/1941/problem/C"
+    },
+    {
+      "id": "1945B",
+      "contestId": 1945,
+      "contestName": "Codeforces Round 935 (Div. 3)",
+      "index": "B",
+      "name": "Fireworks",
+      "rating": 900,
+      "url": "https://codeforces.com/contest/1945/problem/B"
+    },
+    {
+      "id": "1992C",
+      "contestId": 1992,
+      "contestName": "Codeforces Round 957 (Div. 3)",
+      "index": "C",
+      "name": "Gorilla and Permutation",
+      "rating": 900,
+      "url": "https://codeforces.com/contest/1992/problem/C"
+    },
+    {
+      "id": "2033B",
+      "contestId": 2033,
+      "contestName": "Codeforces Round 981 (Div. 3)",
+      "index": "B",
+      "name": "Sakurako and Water",
+      "rating": 900,
+      "url": "https://codeforces.com/contest/2033/problem/B"
+    },
+    {
+      "id": "2060C",
+      "contestId": 2060,
+      "contestName": "Codeforces Round 998 (Div. 3)",
+      "index": "C",
+      "name": "Game of Mathletes",
+      "rating": 900,
+      "url": "https://codeforces.com/contest/2060/problem/C"
+    },
+    {
+      "id": "2072B",
+      "contestId": 2072,
+      "contestName": "Codeforces Round 1006 (Div. 3)",
+      "index": "B",
+      "name": "Having Been a Treasurer in the Past, I Help Goblins Deceive",
+      "rating": 900,
+      "url": "https://codeforces.com/contest/2072/problem/B"
+    },
+    {
+      "id": "2093B",
+      "contestId": 2093,
+      "contestName": "Codeforces Round 1016 (Div. 3)",
+      "index": "B",
+      "name": "Expensive Number",
+      "rating": 900,
+      "url": "https://codeforces.com/contest/2093/problem/B"
+    },
+    {
+      "id": "2106B",
+      "contestId": 2106,
+      "contestName": "Codeforces Round 1020 (Div. 3)",
+      "index": "B",
+      "name": "St. Chroma",
+      "rating": 900,
+      "url": "https://codeforces.com/contest/2106/problem/B"
+    },
+    {
+      "id": "2114B",
+      "contestId": 2114,
+      "contestName": "Codeforces Round 1027 (Div. 3)",
+      "index": "B",
+      "name": "Not Quite a Palindromic String",
+      "rating": 900,
+      "url": "https://codeforces.com/contest/2114/problem/B"
+    },
+    {
+      "id": "2132B",
+      "contestId": 2132,
+      "contestName": "Codeforces Round 1043 (Div. 3)",
+      "index": "B",
+      "name": "The Secret Number",
+      "rating": 900,
+      "url": "https://codeforces.com/contest/2132/problem/B"
+    },
+    {
+      "id": "2137B",
+      "contestId": 2137,
+      "contestName": "Codeforces Round 1047 (Div. 3)",
+      "index": "B",
+      "name": "Fun Permutation",
+      "rating": 900,
+      "url": "https://codeforces.com/contest/2137/problem/B"
+    },
+    {
+      "id": "2149C",
+      "contestId": 2149,
+      "contestName": "Codeforces Round 1054 (Div. 3)",
+      "index": "C",
+      "name": "MEX rose",
+      "rating": 900,
+      "url": "https://codeforces.com/contest/2149/problem/C"
+    },
+    {
+      "id": "2171B",
+      "contestId": 2171,
+      "contestName": "Codeforces Round 1065 (Div. 3)",
+      "index": "B",
+      "name": "Yuu Koito and Minimum Absolute Sum",
+      "rating": 900,
+      "url": "https://codeforces.com/contest/2171/problem/B"
+    },
+    {
+      "id": "1353C",
+      "contestId": 1353,
+      "contestName": "Codeforces Round 642 (Div. 3)",
+      "index": "C",
+      "name": "Board Moves",
+      "rating": 1000,
+      "url": "https://codeforces.com/contest/1353/problem/C"
+    },
+    {
+      "id": "1374C",
+      "contestId": 1374,
+      "contestName": "Codeforces Round 653 (Div. 3)",
+      "index": "C",
+      "name": "Move Brackets",
+      "rating": 1000,
+      "url": "https://codeforces.com/contest/1374/problem/C"
+    },
+    {
+      "id": "1490B",
+      "contestId": 1490,
+      "contestName": "Codeforces Round 702 (Div. 3)",
+      "index": "B",
+      "name": "Balanced Remainders",
+      "rating": 1000,
+      "url": "https://codeforces.com/contest/1490/problem/B"
+    },
+    {
+      "id": "1506C",
+      "contestId": 1506,
+      "contestName": "Codeforces Round 710 (Div. 3)",
+      "index": "C",
+      "name": "Double-ended Strings",
+      "rating": 1000,
+      "url": "https://codeforces.com/contest/1506/problem/C"
+    },
+    {
+      "id": "1520C",
+      "contestId": 1520,
+      "contestName": "Codeforces Round 719 (Div. 3)",
+      "index": "C",
+      "name": "Not Adjacent Matrix",
+      "rating": 1000,
+      "url": "https://codeforces.com/contest/1520/problem/C"
+    },
+    {
+      "id": "1593C",
+      "contestId": 1593,
+      "contestName": "Codeforces Round 748 (Div. 3)",
+      "index": "C",
+      "name": "Save More Mice",
+      "rating": 1000,
+      "url": "https://codeforces.com/contest/1593/problem/C"
+    },
+    {
+      "id": "1607C",
+      "contestId": 1607,
+      "contestName": "Codeforces Round 753 (Div. 3)",
+      "index": "C",
+      "name": "Minimum Extraction",
+      "rating": 1000,
+      "url": "https://codeforces.com/contest/1607/problem/C"
+    },
+    {
+      "id": "1611C",
+      "contestId": 1611,
+      "contestName": "Codeforces Round 756 (Div. 3)",
+      "index": "C",
+      "name": "Polycarp Recovers the Permutation",
+      "rating": 1000,
+      "url": "https://codeforces.com/contest/1611/problem/C"
+    },
+    {
+      "id": "1674C",
+      "contestId": 1674,
+      "contestName": "Codeforces Round 786 (Div. 3)",
+      "index": "C",
+      "name": "Infinite Replacement",
+      "rating": 1000,
+      "url": "https://codeforces.com/contest/1674/problem/C"
+    },
+    {
+      "id": "1690D",
+      "contestId": 1690,
+      "contestName": "Codeforces Round 797 (Div. 3)",
+      "index": "D",
+      "name": "Black and White Stripe",
+      "rating": 1000,
+      "url": "https://codeforces.com/contest/1690/problem/D"
+    },
+    {
+      "id": "1702D",
+      "contestId": 1702,
+      "contestName": "Codeforces Round 805 (Div. 3)",
+      "index": "D",
+      "name": "Not a Cheap String",
+      "rating": 1000,
+      "url": "https://codeforces.com/contest/1702/problem/D"
+    },
+    {
+      "id": "1744C",
+      "contestId": 1744,
+      "contestName": "Codeforces Round  828 (Div. 3)",
+      "index": "C",
+      "name": "Traffic Light",
+      "rating": 1000,
+      "url": "https://codeforces.com/contest/1744/problem/C"
+    },
+    {
+      "id": "1772C",
+      "contestId": 1772,
+      "contestName": "Codeforces Round 839 (Div. 3)",
+      "index": "C",
+      "name": "Different Differences",
+      "rating": 1000,
+      "url": "https://codeforces.com/contest/1772/problem/C"
+    },
+    {
+      "id": "1790C",
+      "contestId": 1790,
+      "contestName": "Codeforces Round 847 (Div. 3)",
+      "index": "C",
+      "name": "Premutation",
+      "rating": 1000,
+      "url": "https://codeforces.com/contest/1790/problem/C"
+    },
+    {
+      "id": "1800B",
+      "contestId": 1800,
+      "contestName": "Codeforces Round 855 (Div. 3)",
+      "index": "B",
+      "name": "Count the Number of Pairs",
+      "rating": 1000,
+      "url": "https://codeforces.com/contest/1800/problem/B"
+    },
+    {
+      "id": "1811B",
+      "contestId": 1811,
+      "contestName": "Codeforces Round 863 (Div. 3)",
+      "index": "B",
+      "name": "Conveyor Belts",
+      "rating": 1000,
+      "url": "https://codeforces.com/contest/1811/problem/B"
+    },
+    {
+      "id": "1840C",
+      "contestId": 1840,
+      "contestName": "Codeforces Round 878 (Div. 3)",
+      "index": "C",
+      "name": "Ski Resort",
+      "rating": 1000,
+      "url": "https://codeforces.com/contest/1840/problem/C"
+    },
+    {
+      "id": "1851C",
+      "contestId": 1851,
+      "contestName": "Codeforces Round 888 (Div. 3)",
+      "index": "C",
+      "name": "Tiles Comeback",
+      "rating": 1000,
+      "url": "https://codeforces.com/contest/1851/problem/C"
+    },
+    {
+      "id": "1883C",
+      "contestId": 1883,
+      "contestName": "Codeforces Round 905 (Div. 3)",
+      "index": "C",
+      "name": "Raspberries",
+      "rating": 1000,
+      "url": "https://codeforces.com/contest/1883/problem/C"
+    },
+    {
+      "id": "1907B",
+      "contestId": 1907,
+      "contestName": "Codeforces Round 913 (Div. 3)",
+      "index": "B",
+      "name": "YetnotherrokenKeoard",
+      "rating": 1000,
+      "url": "https://codeforces.com/contest/1907/problem/B"
+    },
+    {
+      "id": "1927C",
+      "contestId": 1927,
+      "contestName": "Codeforces Round 923 (Div. 3)",
+      "index": "C",
+      "name": "Choose the Different Ones!",
+      "rating": 1000,
+      "url": "https://codeforces.com/contest/1927/problem/C"
+    },
+    {
+      "id": "1931C",
+      "contestId": 1931,
+      "contestName": "Codeforces Round 925 (Div. 3)",
+      "index": "C",
+      "name": "Make Equal Again",
+      "rating": 1000,
+      "url": "https://codeforces.com/contest/1931/problem/C"
+    },
+    {
+      "id": "1941B",
+      "contestId": 1941,
+      "contestName": "Codeforces Round 933 (Div. 3)",
+      "index": "B",
+      "name": "Rudolf and 121",
+      "rating": 1000,
+      "url": "https://codeforces.com/contest/1941/problem/B"
+    },
+    {
+      "id": "1955B",
+      "contestId": 1955,
+      "contestName": "Codeforces Round 938 (Div. 3)",
+      "index": "B",
+      "name": "Progressive Square",
+      "rating": 1000,
+      "url": "https://codeforces.com/contest/1955/problem/B"
+    },
+    {
+      "id": "1968C",
+      "contestId": 1968,
+      "contestName": "Codeforces Round 943 (Div. 3)",
+      "index": "C",
+      "name": "Assembly via Remainders",
+      "rating": 1000,
+      "url": "https://codeforces.com/contest/1968/problem/C"
+    },
+    {
+      "id": "1986B",
+      "contestId": 1986,
+      "contestName": "Codeforces Round 954 (Div. 3)",
+      "index": "B",
+      "name": "Matrix Stabilization",
+      "rating": 1000,
+      "url": "https://codeforces.com/contest/1986/problem/B"
+    },
+    {
+      "id": "2000C",
+      "contestId": 2000,
+      "contestName": "Codeforces Round 966 (Div. 3)",
+      "index": "C",
+      "name": "Numeric String Template",
+      "rating": 1000,
+      "url": "https://codeforces.com/contest/2000/problem/C"
+    },
+    {
+      "id": "2037C",
+      "contestId": 2037,
+      "contestName": "Codeforces Round 988 (Div. 3)",
+      "index": "C",
+      "name": "Superultra's Favorite Permutation",
+      "rating": 1000,
+      "url": "https://codeforces.com/contest/2037/problem/C"
+    },
+    {
+      "id": "2051C",
+      "contestId": 2051,
+      "contestName": "Codeforces Round 995 (Div. 3)",
+      "index": "C",
+      "name": "Preparing for the Exam",
+      "rating": 1000,
+      "url": "https://codeforces.com/contest/2051/problem/C"
+    },
+    {
+      "id": "2060B",
+      "contestId": 2060,
+      "contestName": "Codeforces Round 998 (Div. 3)",
+      "index": "B",
+      "name": "Farmer John's Card Game",
+      "rating": 1000,
+      "url": "https://codeforces.com/contest/2060/problem/B"
+    },
+    {
+      "id": "2091C",
+      "contestId": 2091,
+      "contestName": "Codeforces Round 1013 (Div. 3)",
+      "index": "C",
+      "name": "Combination Lock",
+      "rating": 1000,
+      "url": "https://codeforces.com/contest/2091/problem/C"
+    },
+    {
+      "id": "2093C",
+      "contestId": 2093,
+      "contestName": "Codeforces Round 1016 (Div. 3)",
+      "index": "C",
+      "name": "Simple Repetition",
+      "rating": 1000,
+      "url": "https://codeforces.com/contest/2093/problem/C"
+    },
+    {
+      "id": "2106C",
+      "contestId": 2106,
+      "contestName": "Codeforces Round 1020 (Div. 3)",
+      "index": "C",
+      "name": "Cherry Bomb",
+      "rating": 1000,
+      "url": "https://codeforces.com/contest/2106/problem/C"
+    },
+    {
+      "id": "2114C",
+      "contestId": 2114,
+      "contestName": "Codeforces Round 1027 (Div. 3)",
+      "index": "C",
+      "name": "Need More Arrays",
+      "rating": 1000,
+      "url": "https://codeforces.com/contest/2114/problem/C"
+    },
+    {
+      "id": "2123C",
+      "contestId": 2123,
+      "contestName": "Codeforces Round 1034 (Div. 3)",
+      "index": "C",
+      "name": "Prefix Min and Suffix Max",
+      "rating": 1000,
+      "url": "https://codeforces.com/contest/2123/problem/C"
+    },
+    {
+      "id": "2162B",
+      "contestId": 2162,
+      "contestName": "Codeforces Round 1059 (Div. 3)",
+      "index": "B",
+      "name": "Beautiful String",
+      "rating": 1000,
+      "url": "https://codeforces.com/contest/2162/problem/B"
+    },
+    {
+      "id": "1324C",
+      "contestId": 1324,
+      "contestName": "Codeforces Round 627 (Div. 3)",
+      "index": "C",
+      "name": "Frog Jumps",
+      "rating": 1100,
+      "url": "https://codeforces.com/contest/1324/problem/C"
+    },
+    {
+      "id": "1335C",
+      "contestId": 1335,
+      "contestName": "Codeforces Round 634 (Div. 3)",
+      "index": "C",
+      "name": "Two Teams Composing",
+      "rating": 1100,
+      "url": "https://codeforces.com/contest/1335/problem/C"
+    },
+    {
+      "id": "1360C",
+      "contestId": 1360,
+      "contestName": "Codeforces Round 644 (Div. 3)",
+      "index": "C",
+      "name": "Similar Pairs",
+      "rating": 1100,
+      "url": "https://codeforces.com/contest/1360/problem/C"
+    },
+    {
+      "id": "1409B",
+      "contestId": 1409,
+      "contestName": "Codeforces Round 667 (Div. 3)",
+      "index": "B",
+      "name": "Minimum Product",
+      "rating": 1100,
+      "url": "https://codeforces.com/contest/1409/problem/B"
+    },
+    {
+      "id": "1426C",
+      "contestId": 1426,
+      "contestName": "Codeforces Round 674 (Div. 3)",
+      "index": "C",
+      "name": "Increase and Copy",
+      "rating": 1100,
+      "url": "https://codeforces.com/contest/1426/problem/C"
+    },
+    {
+      "id": "1472C",
+      "contestId": 1472,
+      "contestName": "Codeforces Round 693 (Div. 3)",
+      "index": "C",
+      "name": "Long Jumps",
+      "rating": 1100,
+      "url": "https://codeforces.com/contest/1472/problem/C"
+    },
+    {
+      "id": "1490C",
+      "contestId": 1490,
+      "contestName": "Codeforces Round 702 (Div. 3)",
+      "index": "C",
+      "name": "Sum of Cubes",
+      "rating": 1100,
+      "url": "https://codeforces.com/contest/1490/problem/C"
+    },
+    {
+      "id": "1506B",
+      "contestId": 1506,
+      "contestName": "Codeforces Round 710 (Div. 3)",
+      "index": "B",
+      "name": "Partial Replacement",
+      "rating": 1100,
+      "url": "https://codeforces.com/contest/1506/problem/B"
+    },
+    {
+      "id": "1547C",
+      "contestId": 1547,
+      "contestName": "Codeforces Round 731 (Div. 3)",
+      "index": "C",
+      "name": "Pair Programming",
+      "rating": 1100,
+      "url": "https://codeforces.com/contest/1547/problem/C"
+    },
+    {
+      "id": "1579B",
+      "contestId": 1579,
+      "contestName": "Codeforces Round 744 (Div. 3)",
+      "index": "B",
+      "name": "Shifting Sort",
+      "rating": 1100,
+      "url": "https://codeforces.com/contest/1579/problem/B"
+    },
+    {
+      "id": "1618C",
+      "contestId": 1618,
+      "contestName": "Codeforces Round 760 (Div. 3)",
+      "index": "C",
+      "name": "Paint the Array",
+      "rating": 1100,
+      "url": "https://codeforces.com/contest/1618/problem/C"
+    },
+    {
+      "id": "1624C",
+      "contestId": 1624,
+      "contestName": "Codeforces Round 764 (Div. 3)",
+      "index": "C",
+      "name": "Division by Two and Permutation",
+      "rating": 1100,
+      "url": "https://codeforces.com/contest/1624/problem/C"
+    },
+    {
+      "id": "1675C",
+      "contestId": 1675,
+      "contestName": "Codeforces Round 787 (Div. 3)",
+      "index": "C",
+      "name": "Detective Task",
+      "rating": 1100,
+      "url": "https://codeforces.com/contest/1675/problem/C"
+    },
+    {
+      "id": "1702C",
+      "contestId": 1702,
+      "contestName": "Codeforces Round 805 (Div. 3)",
+      "index": "C",
+      "name": "Train and Queries",
+      "rating": 1100,
+      "url": "https://codeforces.com/contest/1702/problem/C"
+    },
+    {
+      "id": "1729C",
+      "contestId": 1729,
+      "contestName": "Codeforces Round 820 (Div. 3)",
+      "index": "C",
+      "name": "Jumping on Tiles",
+      "rating": 1100,
+      "url": "https://codeforces.com/contest/1729/problem/C"
+    },
+    {
+      "id": "1741C",
+      "contestId": 1741,
+      "contestName": "Codeforces Round 826 (Div. 3)",
+      "index": "C",
+      "name": "Minimize the Thickness",
+      "rating": 1100,
+      "url": "https://codeforces.com/contest/1741/problem/C"
+    },
+    {
+      "id": "1759C",
+      "contestId": 1759,
+      "contestName": "Codeforces Round  834 (Div. 3)",
+      "index": "C",
+      "name": "Thermostat",
+      "rating": 1100,
+      "url": "https://codeforces.com/contest/1759/problem/C"
+    },
+    {
+      "id": "1811C",
+      "contestId": 1811,
+      "contestName": "Codeforces Round 863 (Div. 3)",
+      "index": "C",
+      "name": "Restore the Array",
+      "rating": 1100,
+      "url": "https://codeforces.com/contest/1811/problem/C"
+    },
+    {
+      "id": "1840B",
+      "contestId": 1840,
+      "contestName": "Codeforces Round 878 (Div. 3)",
+      "index": "B",
+      "name": "Binary Cafe",
+      "rating": 1100,
+      "url": "https://codeforces.com/contest/1840/problem/B"
+    },
+    {
+      "id": "1857B",
+      "contestId": 1857,
+      "contestName": "Codeforces Round 891 (Div. 3)",
+      "index": "B",
+      "name": "Maximum Rounding",
+      "rating": 1100,
+      "url": "https://codeforces.com/contest/1857/problem/B"
+    },
+    {
+      "id": "1862C",
+      "contestId": 1862,
+      "contestName": "Codeforces Round 894 (Div. 3)",
+      "index": "C",
+      "name": "Flower City Fence",
+      "rating": 1100,
+      "url": "https://codeforces.com/contest/1862/problem/C"
+    },
+    {
+      "id": "1872C",
+      "contestId": 1872,
+      "contestName": "Codeforces Round 895 (Div. 3)",
+      "index": "C",
+      "name": "Non-coprime Split",
+      "rating": 1100,
+      "url": "https://codeforces.com/contest/1872/problem/C"
+    },
+    {
+      "id": "1899B",
+      "contestId": 1899,
+      "contestName": "Codeforces Round 909 (Div. 3)",
+      "index": "B",
+      "name": "250 Thousand Tons of TNT",
+      "rating": 1100,
+      "url": "https://codeforces.com/contest/1899/problem/B"
+    },
+    {
+      "id": "1899C",
+      "contestId": 1899,
+      "contestName": "Codeforces Round 909 (Div. 3)",
+      "index": "C",
+      "name": "Yarik and Array",
+      "rating": 1100,
+      "url": "https://codeforces.com/contest/1899/problem/C"
+    },
+    {
+      "id": "1914C",
+      "contestId": 1914,
+      "contestName": "Codeforces Round 916 (Div. 3)",
+      "index": "C",
+      "name": "Quests",
+      "rating": 1100,
+      "url": "https://codeforces.com/contest/1914/problem/C"
+    },
+    {
+      "id": "1921D",
+      "contestId": 1921,
+      "contestName": "Codeforces Round 920 (Div. 3)",
+      "index": "D",
+      "name": "Very Different Array",
+      "rating": 1100,
+      "url": "https://codeforces.com/contest/1921/problem/D"
+    },
+    {
+      "id": "1932B",
+      "contestId": 1932,
+      "contestName": "Codeforces Round 927 (Div. 3)",
+      "index": "B",
+      "name": "Chaya Calendar",
+      "rating": 1100,
+      "url": "https://codeforces.com/contest/1932/problem/B"
+    },
+    {
+      "id": "1933C",
+      "contestId": 1933,
+      "contestName": "Codeforces Round 929 (Div. 3)",
+      "index": "C",
+      "name": "Turtle Fingers: Count the Values of k",
+      "rating": 1100,
+      "url": "https://codeforces.com/contest/1933/problem/C"
+    },
+    {
+      "id": "1986C",
+      "contestId": 1986,
+      "contestName": "Codeforces Round 954 (Div. 3)",
+      "index": "C",
+      "name": "Update Queries",
+      "rating": 1100,
+      "url": "https://codeforces.com/contest/1986/problem/C"
+    },
+    {
+      "id": "2008D",
+      "contestId": 2008,
+      "contestName": "Codeforces Round 970 (Div. 3)",
+      "index": "D",
+      "name": "Sakurako's Hobby",
+      "rating": 1100,
+      "url": "https://codeforces.com/contest/2008/problem/D"
+    },
+    {
+      "id": "2014C",
+      "contestId": 2014,
+      "contestName": "Codeforces Round 974 (Div. 3)",
+      "index": "C",
+      "name": "Robin Hood in Town",
+      "rating": 1100,
+      "url": "https://codeforces.com/contest/2014/problem/C"
+    },
+    {
+      "id": "2036C",
+      "contestId": 2036,
+      "contestName": "Codeforces Round 984 (Div. 3)",
+      "index": "C",
+      "name": "Anya and 1100",
+      "rating": 1100,
+      "url": "https://codeforces.com/contest/2036/problem/C"
+    },
+    {
+      "id": "2050B",
+      "contestId": 2050,
+      "contestName": "Codeforces Round 991 (Div. 3)",
+      "index": "B",
+      "name": "Transfusion",
+      "rating": 1100,
+      "url": "https://codeforces.com/contest/2050/problem/B"
+    },
+    {
+      "id": "2060D",
+      "contestId": 2060,
+      "contestName": "Codeforces Round 998 (Div. 3)",
+      "index": "D",
+      "name": "Subtract Min Sort",
+      "rating": 1100,
+      "url": "https://codeforces.com/contest/2060/problem/D"
+    },
+    {
+      "id": "2074C",
+      "contestId": 2074,
+      "contestName": "Codeforces Round 1009 (Div. 3)",
+      "index": "C",
+      "name": "XOR and Triangle",
+      "rating": 1100,
+      "url": "https://codeforces.com/contest/2074/problem/C"
+    },
+    {
+      "id": "2126C",
+      "contestId": 2126,
+      "contestName": "Codeforces Round 1037 (Div. 3)",
+      "index": "C",
+      "name": "I Will Definitely Make It",
+      "rating": 1100,
+      "url": "https://codeforces.com/contest/2126/problem/C"
+    },
+    {
+      "id": "2131C",
+      "contestId": 2131,
+      "contestName": "Codeforces Round 1042 (Div. 3)",
+      "index": "C",
+      "name": "Make it Equal",
+      "rating": 1100,
+      "url": "https://codeforces.com/contest/2131/problem/C"
+    },
+    {
+      "id": "2137C",
+      "contestId": 2137,
+      "contestName": "Codeforces Round 1047 (Div. 3)",
+      "index": "C",
+      "name": "Maximum Even Sum",
+      "rating": 1100,
+      "url": "https://codeforces.com/contest/2137/problem/C"
+    },
+    {
+      "id": "2162C",
+      "contestId": 2162,
+      "contestName": "Codeforces Round 1059 (Div. 3)",
+      "index": "C",
+      "name": "Beautiful XOR",
+      "rating": 1100,
+      "url": "https://codeforces.com/contest/2162/problem/C"
+    },
+    {
+      "id": "1328C",
+      "contestId": 1328,
+      "contestName": "Codeforces Round 629 (Div. 3)",
+      "index": "C",
+      "name": "Ternary XOR",
+      "rating": 1200,
+      "url": "https://codeforces.com/contest/1328/problem/C"
+    },
+    {
+      "id": "1343C",
+      "contestId": 1343,
+      "contestName": "Codeforces Round 636 (Div. 3)",
+      "index": "C",
+      "name": "Alternating Subsequence",
+      "rating": 1200,
+      "url": "https://codeforces.com/contest/1343/problem/C"
+    },
+    {
+      "id": "1385C",
+      "contestId": 1385,
+      "contestName": "Codeforces Round 656 (Div. 3)",
+      "index": "C",
+      "name": "Make It Good",
+      "rating": 1200,
+      "url": "https://codeforces.com/contest/1385/problem/C"
+    },
+    {
+      "id": "1399C",
+      "contestId": 1399,
+      "contestName": "Codeforces Round 661 (Div. 3)",
+      "index": "C",
+      "name": "Boats Competition",
+      "rating": 1200,
+      "url": "https://codeforces.com/contest/1399/problem/C"
+    },
+    {
+      "id": "1409C",
+      "contestId": 1409,
+      "contestName": "Codeforces Round 667 (Div. 3)",
+      "index": "C",
+      "name": "Yet Another Array Restoration",
+      "rating": 1200,
+      "url": "https://codeforces.com/contest/1409/problem/C"
+    },
+    {
+      "id": "1433D",
+      "contestId": 1433,
+      "contestName": "Codeforces Round 677 (Div. 3)",
+      "index": "D",
+      "name": "Districts Connection",
+      "rating": 1200,
+      "url": "https://codeforces.com/contest/1433/problem/D"
+    },
+    {
+      "id": "1454C",
+      "contestId": 1454,
+      "contestName": "Codeforces Round 686 (Div. 3)",
+      "index": "C",
+      "name": "Sequence Transformation",
+      "rating": 1200,
+      "url": "https://codeforces.com/contest/1454/problem/C"
+    },
+    {
+      "id": "1472D",
+      "contestId": 1472,
+      "contestName": "Codeforces Round 693 (Div. 3)",
+      "index": "D",
+      "name": "Even-Odd Game",
+      "rating": 1200,
+      "url": "https://codeforces.com/contest/1472/problem/D"
+    },
+    {
+      "id": "1490D",
+      "contestId": 1490,
+      "contestName": "Codeforces Round 702 (Div. 3)",
+      "index": "D",
+      "name": "Permutation Transformation",
+      "rating": 1200,
+      "url": "https://codeforces.com/contest/1490/problem/D"
+    },
+    {
+      "id": "1512C",
+      "contestId": 1512,
+      "contestName": "Codeforces Round 713 (Div. 3)",
+      "index": "C",
+      "name": "A-B Palindrome",
+      "rating": 1200,
+      "url": "https://codeforces.com/contest/1512/problem/C"
+    },
+    {
+      "id": "1512D",
+      "contestId": 1512,
+      "contestName": "Codeforces Round 713 (Div. 3)",
+      "index": "D",
+      "name": "Corrupted Array",
+      "rating": 1200,
+      "url": "https://codeforces.com/contest/1512/problem/D"
+    },
+    {
+      "id": "1520D",
+      "contestId": 1520,
+      "contestName": "Codeforces Round 719 (Div. 3)",
+      "index": "D",
+      "name": "Same Differences",
+      "rating": 1200,
+      "url": "https://codeforces.com/contest/1520/problem/D"
+    },
+    {
+      "id": "1619C",
+      "contestId": 1619,
+      "contestName": "Codeforces Round 762 (Div. 3)",
+      "index": "C",
+      "name": "Wrong Addition",
+      "rating": 1200,
+      "url": "https://codeforces.com/contest/1619/problem/C"
+    },
+    {
+      "id": "1650C",
+      "contestId": 1650,
+      "contestName": "Codeforces Round 776 (Div. 3)",
+      "index": "C",
+      "name": "Weight of the System of Nested Segments",
+      "rating": 1200,
+      "url": "https://codeforces.com/contest/1650/problem/C"
+    },
+    {
+      "id": "1674D",
+      "contestId": 1674,
+      "contestName": "Codeforces Round 786 (Div. 3)",
+      "index": "D",
+      "name": "A-B-C Sort",
+      "rating": 1200,
+      "url": "https://codeforces.com/contest/1674/problem/D"
+    },
+    {
+      "id": "1729D",
+      "contestId": 1729,
+      "contestName": "Codeforces Round 820 (Div. 3)",
+      "index": "D",
+      "name": "Friends and the Restaurant",
+      "rating": 1200,
+      "url": "https://codeforces.com/contest/1729/problem/D"
+    },
+    {
+      "id": "1744D",
+      "contestId": 1744,
+      "contestName": "Codeforces Round  828 (Div. 3)",
+      "index": "D",
+      "name": "Divisibility by 2^n",
+      "rating": 1200,
+      "url": "https://codeforces.com/contest/1744/problem/D"
+    },
+    {
+      "id": "1790D",
+      "contestId": 1790,
+      "contestName": "Codeforces Round 847 (Div. 3)",
+      "index": "D",
+      "name": "Matryoshkas",
+      "rating": 1200,
+      "url": "https://codeforces.com/contest/1790/problem/D"
+    },
+    {
+      "id": "1800D",
+      "contestId": 1800,
+      "contestName": "Codeforces Round 855 (Div. 3)",
+      "index": "D",
+      "name": "Remove Two Letters",
+      "rating": 1200,
+      "url": "https://codeforces.com/contest/1800/problem/D"
+    },
+    {
+      "id": "1822D",
+      "contestId": 1822,
+      "contestName": "Codeforces Round 867 (Div. 3)",
+      "index": "D",
+      "name": "Super-Permutation",
+      "rating": 1200,
+      "url": "https://codeforces.com/contest/1822/problem/D"
+    },
+    {
+      "id": "1843D",
+      "contestId": 1843,
+      "contestName": "Codeforces Round 881 (Div. 3)",
+      "index": "D",
+      "name": "Apple Tree",
+      "rating": 1200,
+      "url": "https://codeforces.com/contest/1843/problem/D"
+    },
+    {
+      "id": "1846C",
+      "contestId": 1846,
+      "contestName": "Codeforces Round 883 (Div. 3)",
+      "index": "C",
+      "name": "Rudolf and the Another Competition",
+      "rating": 1200,
+      "url": "https://codeforces.com/contest/1846/problem/C"
+    },
+    {
+      "id": "1846D",
+      "contestId": 1846,
+      "contestName": "Codeforces Round 883 (Div. 3)",
+      "index": "D",
+      "name": "Rudolph and Christmas Tree",
+      "rating": 1200,
+      "url": "https://codeforces.com/contest/1846/problem/D"
+    },
+    {
+      "id": "1857C",
+      "contestId": 1857,
+      "contestName": "Codeforces Round 891 (Div. 3)",
+      "index": "C",
+      "name": "Assembly via Minimums",
+      "rating": 1200,
+      "url": "https://codeforces.com/contest/1857/problem/C"
+    },
+    {
+      "id": "1872D",
+      "contestId": 1872,
+      "contestName": "Codeforces Round 895 (Div. 3)",
+      "index": "D",
+      "name": "Plus Minus Permutation",
+      "rating": 1200,
+      "url": "https://codeforces.com/contest/1872/problem/D"
+    },
+    {
+      "id": "1881C",
+      "contestId": 1881,
+      "contestName": "Codeforces Round 903 (Div. 3)",
+      "index": "C",
+      "name": "Perfect Square",
+      "rating": 1200,
+      "url": "https://codeforces.com/contest/1881/problem/C"
+    },
+    {
+      "id": "1907C",
+      "contestId": 1907,
+      "contestName": "Codeforces Round 913 (Div. 3)",
+      "index": "C",
+      "name": "Removal of Unattractive Pairs",
+      "rating": 1200,
+      "url": "https://codeforces.com/contest/1907/problem/C"
+    },
+    {
+      "id": "1914D",
+      "contestId": 1914,
+      "contestName": "Codeforces Round 916 (Div. 3)",
+      "index": "D",
+      "name": "Three Activities",
+      "rating": 1200,
+      "url": "https://codeforces.com/contest/1914/problem/D"
+    },
+    {
+      "id": "1933D",
+      "contestId": 1933,
+      "contestName": "Codeforces Round 929 (Div. 3)",
+      "index": "D",
+      "name": "Turtle Tenacity: Continual Mods",
+      "rating": 1200,
+      "url": "https://codeforces.com/contest/1933/problem/D"
+    },
+    {
+      "id": "1941D",
+      "contestId": 1941,
+      "contestName": "Codeforces Round 933 (Div. 3)",
+      "index": "D",
+      "name": "Rudolf and the Ball Game",
+      "rating": 1200,
+      "url": "https://codeforces.com/contest/1941/problem/D"
+    },
+    {
+      "id": "1945C",
+      "contestId": 1945,
+      "contestName": "Codeforces Round 935 (Div. 3)",
+      "index": "C",
+      "name": "Left and Right Houses",
+      "rating": 1200,
+      "url": "https://codeforces.com/contest/1945/problem/C"
+    },
+    {
+      "id": "1992D",
+      "contestId": 1992,
+      "contestName": "Codeforces Round 957 (Div. 3)",
+      "index": "D",
+      "name": "Test of Love",
+      "rating": 1200,
+      "url": "https://codeforces.com/contest/1992/problem/D"
+    },
+    {
+      "id": "1996C",
+      "contestId": 1996,
+      "contestName": "Codeforces Round 962 (Div. 3)",
+      "index": "C",
+      "name": "Sort",
+      "rating": 1200,
+      "url": "https://codeforces.com/contest/1996/problem/C"
+    },
+    {
+      "id": "2000D",
+      "contestId": 2000,
+      "contestName": "Codeforces Round 966 (Div. 3)",
+      "index": "D",
+      "name": "Right Left Wrong",
+      "rating": 1200,
+      "url": "https://codeforces.com/contest/2000/problem/D"
+    },
+    {
+      "id": "2050C",
+      "contestId": 2050,
+      "contestName": "Codeforces Round 991 (Div. 3)",
+      "index": "C",
+      "name": "Uninteresting Number",
+      "rating": 1200,
+      "url": "https://codeforces.com/contest/2050/problem/C"
+    },
+    {
+      "id": "2051D",
+      "contestId": 2051,
+      "contestName": "Codeforces Round 995 (Div. 3)",
+      "index": "D",
+      "name": "Counting Pairs",
+      "rating": 1200,
+      "url": "https://codeforces.com/contest/2051/problem/D"
+    },
+    {
+      "id": "2072C",
+      "contestId": 2072,
+      "contestName": "Codeforces Round 1006 (Div. 3)",
+      "index": "C",
+      "name": "Creating Keys for StORages Has Become My Main Skill",
+      "rating": 1200,
+      "url": "https://codeforces.com/contest/2072/problem/C"
+    },
+    {
+      "id": "2091D",
+      "contestId": 2091,
+      "contestName": "Codeforces Round 1013 (Div. 3)",
+      "index": "D",
+      "name": "Place of the Olympiad",
+      "rating": 1200,
+      "url": "https://codeforces.com/contest/2091/problem/D"
+    },
+    {
+      "id": "2117C",
+      "contestId": 2117,
+      "contestName": "Codeforces Round 1029 (Div. 3)",
+      "index": "C",
+      "name": "Cool Partition",
+      "rating": 1200,
+      "url": "https://codeforces.com/contest/2117/problem/C"
+    },
+    {
+      "id": "2117D",
+      "contestId": 2117,
+      "contestName": "Codeforces Round 1029 (Div. 3)",
+      "index": "D",
+      "name": "Retaliation",
+      "rating": 1200,
+      "url": "https://codeforces.com/contest/2117/problem/D"
+    },
+    {
+      "id": "2121C",
+      "contestId": 2121,
+      "contestName": "Codeforces Round 1032 (Div. 3)",
+      "index": "C",
+      "name": "Those Who Are With Us",
+      "rating": 1200,
+      "url": "https://codeforces.com/contest/2121/problem/C"
+    },
+    {
+      "id": "2123D",
+      "contestId": 2123,
+      "contestName": "Codeforces Round 1034 (Div. 3)",
+      "index": "D",
+      "name": "Binary String Battle",
+      "rating": 1200,
+      "url": "https://codeforces.com/contest/2123/problem/D"
+    },
+    {
+      "id": "2126D",
+      "contestId": 2126,
+      "contestName": "Codeforces Round 1037 (Div. 3)",
+      "index": "D",
+      "name": "This Is the Last Time",
+      "rating": 1200,
+      "url": "https://codeforces.com/contest/2126/problem/D"
+    },
+    {
+      "id": "2137D",
+      "contestId": 2137,
+      "contestName": "Codeforces Round 1047 (Div. 3)",
+      "index": "D",
+      "name": "Replace with Occurrences",
+      "rating": 1200,
+      "url": "https://codeforces.com/contest/2137/problem/D"
+    },
+    {
+      "id": "2149D",
+      "contestId": 2149,
+      "contestName": "Codeforces Round 1054 (Div. 3)",
+      "index": "D",
+      "name": "A and B",
+      "rating": 1200,
+      "url": "https://codeforces.com/contest/2149/problem/D"
+    },
+    {
+      "id": "1311C",
+      "contestId": 1311,
+      "contestName": "Codeforces Round 624 (Div. 3)",
+      "index": "C",
+      "name": "Perform the Combo",
+      "rating": 1300,
+      "url": "https://codeforces.com/contest/1311/problem/C"
+    },
+    {
+      "id": "1335D",
+      "contestId": 1335,
+      "contestName": "Codeforces Round 634 (Div. 3)",
+      "index": "D",
+      "name": "Anti-Sudoku",
+      "rating": 1300,
+      "url": "https://codeforces.com/contest/1335/problem/D"
+    },
+    {
+      "id": "1360D",
+      "contestId": 1360,
+      "contestName": "Codeforces Round 644 (Div. 3)",
+      "index": "D",
+      "name": "Buying Shovels",
+      "rating": 1300,
+      "url": "https://codeforces.com/contest/1360/problem/D"
+    },
+    {
+      "id": "1367C",
+      "contestId": 1367,
+      "contestName": "Codeforces Round 650 (Div. 3)",
+      "index": "C",
+      "name": "Social Distance",
+      "rating": 1300,
+      "url": "https://codeforces.com/contest/1367/problem/C"
+    },
+    {
+      "id": "1454D",
+      "contestId": 1454,
+      "contestName": "Codeforces Round 686 (Div. 3)",
+      "index": "D",
+      "name": "Number into Sequence",
+      "rating": 1300,
+      "url": "https://codeforces.com/contest/1454/problem/D"
+    },
+    {
+      "id": "1538C",
+      "contestId": 1538,
+      "contestName": "Codeforces Round 725 (Div. 3)",
+      "index": "C",
+      "name": "Number of Pairs",
+      "rating": 1300,
+      "url": "https://codeforces.com/contest/1538/problem/C"
+    },
+    {
+      "id": "1547D",
+      "contestId": 1547,
+      "contestName": "Codeforces Round 731 (Div. 3)",
+      "index": "D",
+      "name": "Co-growing Sequence",
+      "rating": 1300,
+      "url": "https://codeforces.com/contest/1547/problem/D"
+    },
+    {
+      "id": "1560D",
+      "contestId": 1560,
+      "contestName": "Codeforces Round 739 (Div. 3)",
+      "index": "D",
+      "name": "Make a Power of Two",
+      "rating": 1300,
+      "url": "https://codeforces.com/contest/1560/problem/D"
+    },
+    {
+      "id": "1607D",
+      "contestId": 1607,
+      "contestName": "Codeforces Round 753 (Div. 3)",
+      "index": "D",
+      "name": "Blue-Red Permutation",
+      "rating": 1300,
+      "url": "https://codeforces.com/contest/1607/problem/D"
+    },
+    {
+      "id": "1618D",
+      "contestId": 1618,
+      "contestName": "Codeforces Round 760 (Div. 3)",
+      "index": "D",
+      "name": "Array and Operations",
+      "rating": 1300,
+      "url": "https://codeforces.com/contest/1618/problem/D"
+    },
+    {
+      "id": "1650D",
+      "contestId": 1650,
+      "contestName": "Codeforces Round 776 (Div. 3)",
+      "index": "D",
+      "name": "Twist the Permutation",
+      "rating": 1300,
+      "url": "https://codeforces.com/contest/1650/problem/D"
+    },
+    {
+      "id": "1660C",
+      "contestId": 1660,
+      "contestName": "Codeforces Round 780 (Div. 3)",
+      "index": "C",
+      "name": "Get an Even String",
+      "rating": 1300,
+      "url": "https://codeforces.com/contest/1660/problem/C"
+    },
+    {
+      "id": "1675D",
+      "contestId": 1675,
+      "contestName": "Codeforces Round 787 (Div. 3)",
+      "index": "D",
+      "name": "Vertical Paths",
+      "rating": 1300,
+      "url": "https://codeforces.com/contest/1675/problem/D"
+    },
+    {
+      "id": "1741D",
+      "contestId": 1741,
+      "contestName": "Codeforces Round 826 (Div. 3)",
+      "index": "D",
+      "name": "Masha and a Beautiful Tree",
+      "rating": 1300,
+      "url": "https://codeforces.com/contest/1741/problem/D"
+    },
+    {
+      "id": "1851D",
+      "contestId": 1851,
+      "contestName": "Codeforces Round 888 (Div. 3)",
+      "index": "D",
+      "name": "Prefix Permutation Sums",
+      "rating": 1300,
+      "url": "https://codeforces.com/contest/1851/problem/D"
+    },
+    {
+      "id": "1857D",
+      "contestId": 1857,
+      "contestName": "Codeforces Round 891 (Div. 3)",
+      "index": "D",
+      "name": "Strong Vertices",
+      "rating": 1300,
+      "url": "https://codeforces.com/contest/1857/problem/D"
+    },
+    {
+      "id": "1862D",
+      "contestId": 1862,
+      "contestName": "Codeforces Round 894 (Div. 3)",
+      "index": "D",
+      "name": "Ice Cream Balls",
+      "rating": 1300,
+      "url": "https://codeforces.com/contest/1862/problem/D"
+    },
+    {
+      "id": "1881D",
+      "contestId": 1881,
+      "contestName": "Codeforces Round 903 (Div. 3)",
+      "index": "D",
+      "name": "Divide and Equalize",
+      "rating": 1300,
+      "url": "https://codeforces.com/contest/1881/problem/D"
+    },
+    {
+      "id": "1899D",
+      "contestId": 1899,
+      "contestName": "Codeforces Round 909 (Div. 3)",
+      "index": "D",
+      "name": "Yarik and Musical Notes",
+      "rating": 1300,
+      "url": "https://codeforces.com/contest/1899/problem/D"
+    },
+    {
+      "id": "1927D",
+      "contestId": 1927,
+      "contestName": "Codeforces Round 923 (Div. 3)",
+      "index": "D",
+      "name": "Find the Different Ones!",
+      "rating": 1300,
+      "url": "https://codeforces.com/contest/1927/problem/D"
+    },
+    {
+      "id": "1931D",
+      "contestId": 1931,
+      "contestName": "Codeforces Round 925 (Div. 3)",
+      "index": "D",
+      "name": "Divisible Pairs",
+      "rating": 1300,
+      "url": "https://codeforces.com/contest/1931/problem/D"
+    },
+    {
+      "id": "1945D",
+      "contestId": 1945,
+      "contestName": "Codeforces Round 935 (Div. 3)",
+      "index": "D",
+      "name": "Seraphim the Owl",
+      "rating": 1300,
+      "url": "https://codeforces.com/contest/1945/problem/D"
+    },
+    {
+      "id": "1955C",
+      "contestId": 1955,
+      "contestName": "Codeforces Round 938 (Div. 3)",
+      "index": "C",
+      "name": "Inhabitant of the Deep Sea",
+      "rating": 1300,
+      "url": "https://codeforces.com/contest/1955/problem/C"
+    },
+    {
+      "id": "1968D",
+      "contestId": 1968,
+      "contestName": "Codeforces Round 943 (Div. 3)",
+      "index": "D",
+      "name": "Permutation Game",
+      "rating": 1300,
+      "url": "https://codeforces.com/contest/1968/problem/D"
+    },
+    {
+      "id": "1980C",
+      "contestId": 1980,
+      "contestName": "Codeforces Round 950 (Div. 3)",
+      "index": "C",
+      "name": "Sofia and the Lost Operations",
+      "rating": 1300,
+      "url": "https://codeforces.com/contest/1980/problem/C"
+    },
+    {
+      "id": "2033D",
+      "contestId": 2033,
+      "contestName": "Codeforces Round 981 (Div. 3)",
+      "index": "D",
+      "name": "Kousuke's Assignment",
+      "rating": 1300,
+      "url": "https://codeforces.com/contest/2033/problem/D"
+    },
+    {
+      "id": "2036D",
+      "contestId": 2036,
+      "contestName": "Codeforces Round 984 (Div. 3)",
+      "index": "D",
+      "name": "I Love 1543",
+      "rating": 1300,
+      "url": "https://codeforces.com/contest/2036/problem/D"
+    },
+    {
+      "id": "2037D",
+      "contestId": 2037,
+      "contestName": "Codeforces Round 988 (Div. 3)",
+      "index": "D",
+      "name": "Sharky Surfing",
+      "rating": 1300,
+      "url": "https://codeforces.com/contest/2037/problem/D"
+    },
+    {
+      "id": "2050D",
+      "contestId": 2050,
+      "contestName": "Codeforces Round 991 (Div. 3)",
+      "index": "D",
+      "name": "Digital string maximization",
+      "rating": 1300,
+      "url": "https://codeforces.com/contest/2050/problem/D"
+    },
+    {
+      "id": "2072D",
+      "contestId": 2072,
+      "contestName": "Codeforces Round 1006 (Div. 3)",
+      "index": "D",
+      "name": "For Wizards, the Exam Is Easy, but I Couldn't Handle It",
+      "rating": 1300,
+      "url": "https://codeforces.com/contest/2072/problem/D"
+    },
+    {
+      "id": "2121D",
+      "contestId": 2121,
+      "contestName": "Codeforces Round 1032 (Div. 3)",
+      "index": "D",
+      "name": "1709",
+      "rating": 1300,
+      "url": "https://codeforces.com/contest/2121/problem/D"
+    },
+    {
+      "id": "1324D",
+      "contestId": 1324,
+      "contestName": "Codeforces Round 627 (Div. 3)",
+      "index": "D",
+      "name": "Pair of Topics",
+      "rating": 1400,
+      "url": "https://codeforces.com/contest/1324/problem/D"
+    },
+    {
+      "id": "1374D",
+      "contestId": 1374,
+      "contestName": "Codeforces Round 653 (Div. 3)",
+      "index": "D",
+      "name": "Zero Remainder Array",
+      "rating": 1400,
+      "url": "https://codeforces.com/contest/1374/problem/D"
+    },
+    {
+      "id": "1462D",
+      "contestId": 1462,
+      "contestName": "Codeforces Round 690 (Div. 3)",
+      "index": "D",
+      "name": "Add to Neighbour and Remove",
+      "rating": 1400,
+      "url": "https://codeforces.com/contest/1462/problem/D"
+    },
+    {
+      "id": "1475C",
+      "contestId": 1475,
+      "contestName": "Codeforces Round 697 (Div. 3)",
+      "index": "C",
+      "name": "Ball in Berland",
+      "rating": 1400,
+      "url": "https://codeforces.com/contest/1475/problem/C"
+    },
+    {
+      "id": "1506D",
+      "contestId": 1506,
+      "contestName": "Codeforces Round 710 (Div. 3)",
+      "index": "D",
+      "name": "Epic Transformation",
+      "rating": 1400,
+      "url": "https://codeforces.com/contest/1506/problem/D"
+    },
+    {
+      "id": "1579D",
+      "contestId": 1579,
+      "contestName": "Codeforces Round 744 (Div. 3)",
+      "index": "D",
+      "name": "Productive Meeting",
+      "rating": 1400,
+      "url": "https://codeforces.com/contest/1579/problem/D"
+    },
+    {
+      "id": "1624D",
+      "contestId": 1624,
+      "contestName": "Codeforces Round 764 (Div. 3)",
+      "index": "D",
+      "name": "Palindromes Coloring",
+      "rating": 1400,
+      "url": "https://codeforces.com/contest/1624/problem/D"
+    },
+    {
+      "id": "1759D",
+      "contestId": 1759,
+      "contestName": "Codeforces Round  834 (Div. 3)",
+      "index": "D",
+      "name": "Make It Round",
+      "rating": 1400,
+      "url": "https://codeforces.com/contest/1759/problem/D"
+    },
+    {
+      "id": "1772D",
+      "contestId": 1772,
+      "contestName": "Codeforces Round 839 (Div. 3)",
+      "index": "D",
+      "name": "Absolute Sorting",
+      "rating": 1400,
+      "url": "https://codeforces.com/contest/1772/problem/D"
+    },
+    {
+      "id": "1833D",
+      "contestId": 1833,
+      "contestName": "Codeforces Round 874 (Div. 3)",
+      "index": "D",
+      "name": "Flipper",
+      "rating": 1400,
+      "url": "https://codeforces.com/contest/1833/problem/D"
+    },
+    {
+      "id": "1840D",
+      "contestId": 1840,
+      "contestName": "Codeforces Round 878 (Div. 3)",
+      "index": "D",
+      "name": "Wooden Toy Festival",
+      "rating": 1400,
+      "url": "https://codeforces.com/contest/1840/problem/D"
+    },
+    {
+      "id": "1907D",
+      "contestId": 1907,
+      "contestName": "Codeforces Round 913 (Div. 3)",
+      "index": "D",
+      "name": "Jumping Through Segments",
+      "rating": 1400,
+      "url": "https://codeforces.com/contest/1907/problem/D"
+    },
+    {
+      "id": "1932C",
+      "contestId": 1932,
+      "contestName": "Codeforces Round 927 (Div. 3)",
+      "index": "C",
+      "name": "LR-remainders",
+      "rating": 1400,
+      "url": "https://codeforces.com/contest/1932/problem/C"
+    },
+    {
+      "id": "1932D",
+      "contestId": 1932,
+      "contestName": "Codeforces Round 927 (Div. 3)",
+      "index": "D",
+      "name": "Card Game",
+      "rating": 1400,
+      "url": "https://codeforces.com/contest/1932/problem/D"
+    },
+    {
+      "id": "1955D",
+      "contestId": 1955,
+      "contestName": "Codeforces Round 938 (Div. 3)",
+      "index": "D",
+      "name": "Inaccurate Subsequence Search",
+      "rating": 1400,
+      "url": "https://codeforces.com/contest/1955/problem/D"
+    },
+    {
+      "id": "1974C",
+      "contestId": 1974,
+      "contestName": "Codeforces Round 946 (Div. 3)",
+      "index": "C",
+      "name": "Beautiful Triple Pairs",
+      "rating": 1400,
+      "url": "https://codeforces.com/contest/1974/problem/C"
+    },
+    {
+      "id": "1974D",
+      "contestId": 1974,
+      "contestName": "Codeforces Round 946 (Div. 3)",
+      "index": "D",
+      "name": "Ingenuity-2",
+      "rating": 1400,
+      "url": "https://codeforces.com/contest/1974/problem/D"
+    },
+    {
+      "id": "1980D",
+      "contestId": 1980,
+      "contestName": "Codeforces Round 950 (Div. 3)",
+      "index": "D",
+      "name": "GCD-sequence",
+      "rating": 1400,
+      "url": "https://codeforces.com/contest/1980/problem/D"
+    },
+    {
+      "id": "1986D",
+      "contestId": 1986,
+      "contestName": "Codeforces Round 954 (Div. 3)",
+      "index": "D",
+      "name": "Mathematical Problem",
+      "rating": 1400,
+      "url": "https://codeforces.com/contest/1986/problem/D"
+    },
+    {
+      "id": "2014D",
+      "contestId": 2014,
+      "contestName": "Codeforces Round 974 (Div. 3)",
+      "index": "D",
+      "name": "Robert Hood and Mrs Hood",
+      "rating": 1400,
+      "url": "https://codeforces.com/contest/2014/problem/D"
+    },
+    {
+      "id": "2033C",
+      "contestId": 2033,
+      "contestName": "Codeforces Round 981 (Div. 3)",
+      "index": "C",
+      "name": "Sakurako's Field Trip",
+      "rating": 1400,
+      "url": "https://codeforces.com/contest/2033/problem/C"
+    },
+    {
+      "id": "2074D",
+      "contestId": 2074,
+      "contestName": "Codeforces Round 1009 (Div. 3)",
+      "index": "D",
+      "name": "Counting Points",
+      "rating": 1400,
+      "url": "https://codeforces.com/contest/2074/problem/D"
+    },
+    {
+      "id": "2093D",
+      "contestId": 2093,
+      "contestName": "Codeforces Round 1016 (Div. 3)",
+      "index": "D",
+      "name": "Skibidi Table",
+      "rating": 1400,
+      "url": "https://codeforces.com/contest/2093/problem/D"
+    },
+    {
+      "id": "2114D",
+      "contestId": 2114,
+      "contestName": "Codeforces Round 1027 (Div. 3)",
+      "index": "D",
+      "name": "Come a Little Closer",
+      "rating": 1400,
+      "url": "https://codeforces.com/contest/2114/problem/D"
+    },
+    {
+      "id": "2131D",
+      "contestId": 2131,
+      "contestName": "Codeforces Round 1042 (Div. 3)",
+      "index": "D",
+      "name": "Arboris Contractio",
+      "rating": 1400,
+      "url": "https://codeforces.com/contest/2131/problem/D"
+    },
+    {
+      "id": "2162D",
+      "contestId": 2162,
+      "contestName": "Codeforces Round 1059 (Div. 3)",
+      "index": "D",
+      "name": "Beautiful Permutation",
+      "rating": 1400,
+      "url": "https://codeforces.com/contest/2162/problem/D"
+    },
+    {
+      "id": "2171D",
+      "contestId": 2171,
+      "contestName": "Codeforces Round 1065 (Div. 3)",
+      "index": "D",
+      "name": "Rae Taylor and Trees (easy version)",
+      "rating": 1400,
+      "url": "https://codeforces.com/contest/2171/problem/D"
+    },
+    {
+      "id": "1385D",
+      "contestId": 1385,
+      "contestName": "Codeforces Round 656 (Div. 3)",
+      "index": "D",
+      "name": "a-Good String",
+      "rating": 1500,
+      "url": "https://codeforces.com/contest/1385/problem/D"
+    },
+    {
+      "id": "1399D",
+      "contestId": 1399,
+      "contestName": "Codeforces Round 661 (Div. 3)",
+      "index": "D",
+      "name": "Binary String To Subsequences",
+      "rating": 1500,
+      "url": "https://codeforces.com/contest/1399/problem/D"
+    },
+    {
+      "id": "1409D",
+      "contestId": 1409,
+      "contestName": "Codeforces Round 667 (Div. 3)",
+      "index": "D",
+      "name": "Decrease the Sum of Digits",
+      "rating": 1500,
+      "url": "https://codeforces.com/contest/1409/problem/D"
+    },
+    {
+      "id": "1426D",
+      "contestId": 1426,
+      "contestName": "Codeforces Round 674 (Div. 3)",
+      "index": "D",
+      "name": "Non-zero Segments",
+      "rating": 1500,
+      "url": "https://codeforces.com/contest/1426/problem/D"
+    },
+    {
+      "id": "1551C",
+      "contestId": 1551,
+      "contestName": "Codeforces Round 734 (Div. 3)",
+      "index": "C",
+      "name": "Interesting Story",
+      "rating": 1500,
+      "url": "https://codeforces.com/contest/1551/problem/C"
+    },
+    {
+      "id": "1579C",
+      "contestId": 1579,
+      "contestName": "Codeforces Round 744 (Div. 3)",
+      "index": "C",
+      "name": "Ticks",
+      "rating": 1500,
+      "url": "https://codeforces.com/contest/1579/problem/C"
+    },
+    {
+      "id": "1611D",
+      "contestId": 1611,
+      "contestName": "Codeforces Round 756 (Div. 3)",
+      "index": "D",
+      "name": "Weights Assignment For Tree Edges",
+      "rating": 1500,
+      "url": "https://codeforces.com/contest/1611/problem/D"
+    },
+    {
+      "id": "1883D",
+      "contestId": 1883,
+      "contestName": "Codeforces Round 905 (Div. 3)",
+      "index": "D",
+      "name": "In Love",
+      "rating": 1500,
+      "url": "https://codeforces.com/contest/1883/problem/D"
+    },
+    {
+      "id": "1996D",
+      "contestId": 1996,
+      "contestName": "Codeforces Round 962 (Div. 3)",
+      "index": "D",
+      "name": "Fun",
+      "rating": 1500,
+      "url": "https://codeforces.com/contest/1996/problem/D"
+    },
+    {
+      "id": "2106D",
+      "contestId": 2106,
+      "contestName": "Codeforces Round 1020 (Div. 3)",
+      "index": "D",
+      "name": "Flower Boy",
+      "rating": 1500,
+      "url": "https://codeforces.com/contest/2106/problem/D"
+    },
+    {
+      "id": "1353D",
+      "contestId": 1353,
+      "contestName": "Codeforces Round 642 (Div. 3)",
+      "index": "D",
+      "name": "Constructing the Array",
+      "rating": 1600,
+      "url": "https://codeforces.com/contest/1353/problem/D"
+    },
+    {
+      "id": "1660D",
+      "contestId": 1660,
+      "contestName": "Codeforces Round 780 (Div. 3)",
+      "index": "D",
+      "name": "Maximum Product Strikes Back",
+      "rating": 1600,
+      "url": "https://codeforces.com/contest/1660/problem/D"
+    },
+    {
+      "id": "1714D",
+      "contestId": 1714,
+      "contestName": "Codeforces Round 811 (Div. 3)",
+      "index": "D",
+      "name": "Color with Occurrences",
+      "rating": 1600,
+      "url": "https://codeforces.com/contest/1714/problem/D"
+    },
+    {
+      "id": "1811D",
+      "contestId": 1811,
+      "contestName": "Codeforces Round 863 (Div. 3)",
+      "index": "D",
+      "name": "Umka and a Long Flight",
+      "rating": 1600,
+      "url": "https://codeforces.com/contest/1811/problem/D"
+    },
+    {
+      "id": "1878D",
+      "contestId": 1878,
+      "contestName": "Codeforces Round 900 (Div. 3)",
+      "index": "D",
+      "name": "Reverse Madness",
+      "rating": 1600,
+      "url": "https://codeforces.com/contest/1878/problem/D"
+    },
+    {
+      "id": "2132D",
+      "contestId": 2132,
+      "contestName": "Codeforces Round 1043 (Div. 3)",
+      "index": "D",
+      "name": "From 1 to Infinity",
+      "rating": 1600,
+      "url": "https://codeforces.com/contest/2132/problem/D"
+    },
+    {
+      "id": "1343D",
+      "contestId": 1343,
+      "contestName": "Codeforces Round 636 (Div. 3)",
+      "index": "D",
+      "name": "Constant Palindrome Sum",
+      "rating": 1700,
+      "url": "https://codeforces.com/contest/1343/problem/D"
+    },
+    {
+      "id": "1538D",
+      "contestId": 1538,
+      "contestName": "Codeforces Round 725 (Div. 3)",
+      "index": "D",
+      "name": "Another Problem About Dividing Numbers",
+      "rating": 1700,
+      "url": "https://codeforces.com/contest/1538/problem/D"
+    },
+    {
+      "id": "1328D",
+      "contestId": 1328,
+      "contestName": "Codeforces Round 629 (Div. 3)",
+      "index": "D",
+      "name": "Carousel",
+      "rating": 1800,
+      "url": "https://codeforces.com/contest/1328/problem/D"
+    },
+    {
+      "id": "1367D",
+      "contestId": 1367,
+      "contestName": "Codeforces Round 650 (Div. 3)",
+      "index": "D",
+      "name": "Task On The Board",
+      "rating": 1800,
+      "url": "https://codeforces.com/contest/1367/problem/D"
+    },
+    {
+      "id": "1475D",
+      "contestId": 1475,
+      "contestName": "Codeforces Round 697 (Div. 3)",
+      "index": "D",
+      "name": "Cleaning the Phone",
+      "rating": 1800,
+      "url": "https://codeforces.com/contest/1475/problem/D"
+    },
+    {
+      "id": "1619D",
+      "contestId": 1619,
+      "contestName": "Codeforces Round 762 (Div. 3)",
+      "index": "D",
+      "name": "New Year's Problem",
+      "rating": 1800,
+      "url": "https://codeforces.com/contest/1619/problem/D"
+    },
+    {
+      "id": "2179A",
+      "contestId": 2179,
+      "contestName": "Codeforces Round 1071 (Div. 3)",
+      "index": "A",
+      "name": "Blackslex and Password",
+      "rating": null,
+      "url": "https://codeforces.com/contest/2179/problem/A"
+    },
+    {
+      "id": "2179B",
+      "contestId": 2179,
+      "contestName": "Codeforces Round 1071 (Div. 3)",
+      "index": "B",
+      "name": "Blackslex and Showering",
+      "rating": null,
+      "url": "https://codeforces.com/contest/2179/problem/B"
+    },
+    {
+      "id": "2179C",
+      "contestId": 2179,
+      "contestName": "Codeforces Round 1071 (Div. 3)",
+      "index": "C",
+      "name": "Blackslex and Number Theory",
+      "rating": null,
+      "url": "https://codeforces.com/contest/2179/problem/C"
+    },
+    {
+      "id": "2179D",
+      "contestId": 2179,
+      "contestName": "Codeforces Round 1071 (Div. 3)",
+      "index": "D",
+      "name": "Blackslex and Penguin Civilization",
+      "rating": null,
+      "url": "https://codeforces.com/contest/2179/problem/D"
+    }
+  ]
+}
