@@ -2,7 +2,7 @@ import "./globals.css"
 import { Analytics } from "@vercel/analytics/next"
 
 export const metadata = {
-  title: "CF Div2 2025 Sheet",
+  title: "CF-Codeclimb",
   description: "Track Codeforces Div2 problems automatically",
 }
 
